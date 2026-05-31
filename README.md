@@ -6,28 +6,31 @@
 
 直接从 [Releases](https://github.com/jisxu/dtrb2viewer/releases) 页面下载预编译版本。
 
-## 快速开始
+## 运行
 
-### Windows用户
-双击运行 `start.bat` 即可（首次运行会自动编译）
+下载对应平台的可执行文件，直接运行即可启动服务，浏览器会自动打开。
 
-### Linux/Mac用户
 ```bash
-./start.sh
-```
+# Windows
+dtrb2-viewer.exe
 
-启动后浏览器会自动打开，如未打开请访问 http://localhost:8080
+# Linux
+./dtrb2-viewer-linux
+```
 
 ## 端口配置
 
 默认端口为 8080，可通过以下方式修改：
 
 ```bash
-# Windows
-start.bat 9090
+# 使用命令行参数
+./dtrb2-viewer -port 9090
 
-# Linux/Mac
-./start.sh 9090
+# 使用环境变量 (Linux/Mac)
+PORT=9090 ./dtrb2-viewer
+
+# 使用环境变量 (Windows)
+set PORT=9090 && dtrb2-viewer.exe
 ```
 
 ## 构建
