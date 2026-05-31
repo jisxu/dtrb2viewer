@@ -36,17 +36,14 @@ set PORT=9090 && dtrb2-viewer.exe
 ## 使用PM2部署（Linux）
 
 ```bash
-# 直接启动（端口9090）
-pm2 start ./dtrb2-viewer-linux -- -port 9090
-
-# 或使用环境变量
-PORT=9090 pm2 start ./dtrb2-viewer-linux
+# 使用ecosystem配置文件启动（推荐）
+pm2 start ecosystem.config.js
 
 # 常用命令
 pm2 list                    # 查看进程列表
-pm2 logs dtrb2-viewer-linux # 查看日志
-pm2 restart dtrb2-viewer-linux  # 重启
-pm2 stop dtrb2-viewer-linux     # 停止
+pm2 logs dtrb2-viewer       # 查看日志
+pm2 restart dtrb2-viewer    # 重启
+pm2 stop dtrb2-viewer       # 停止
 pm2 save                    # 保存进程列表
 pm2 startup                 # 设置开机自启
 ```
