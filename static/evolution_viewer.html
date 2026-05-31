@@ -94,6 +94,7 @@ body {
 }
 .digimon-item:hover { background: #1e293b; }
 .digimon-item.selected { background: #1e3a5f; border: 1px solid #3b82f6; }
+.digimon-item.collected { border-left: 3px solid #10b981; }
 .digimon-item .thumb {
     width: 36px;
     height: 36px;
@@ -109,6 +110,27 @@ body {
     padding: 1px 6px;
     border-radius: 8px;
     align-self: flex-start;
+}
+.digimon-item .collect-btn {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    border: 2px solid #374151;
+    background: transparent;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #374151;
+    transition: all 0.2s;
+    flex-shrink: 0;
+}
+.digimon-item .collect-btn:hover { border-color: #10b981; color: #10b981; }
+.digimon-item .collect-btn.collected {
+    background: #10b981;
+    border-color: #10b981;
+    color: #fff;
 }
 #main { flex: 1; position: relative; }
 #network { width: 100%; height: 100%; }
@@ -212,14 +234,56 @@ body {
     position: absolute;
     bottom: 12px;
     left: 12px;
-    padding: 8px 14px;
+    padding: 10px 14px;
     background: #111827ee;
     border: 1px solid #1e293b;
     border-radius: 8px;
     font-size: 12px;
     color: #6b7280;
     backdrop-filter: blur(10px);
+    line-height: 1.6;
 }
+#stats .stat-row { display: flex; gap: 16px; }
+#stats .stat-item { display: flex; align-items: center; gap: 4px; }
+#stats .stat-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+}
+#stats .progress-bar {
+    width: 100px;
+    height: 6px;
+    background: #1f2937;
+    border-radius: 3px;
+    overflow: hidden;
+    margin-top: 4px;
+}
+#stats .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #10b981, #34d399);
+    border-radius: 3px;
+    transition: width 0.3s;
+}
+.collect-filter-box {
+    padding: 4px 12px 8px;
+    border-bottom: 1px solid #1e293b;
+    display: flex;
+    gap: 6px;
+}
+.collect-filter-btn {
+    padding: 4px 10px;
+    border-radius: 12px;
+    border: 1px solid #374151;
+    background: #1f2937;
+    color: #9ca3af;
+    font-size: 11px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.collect-filter-btn:hover { border-color: #10b981; color: #10b981; }
+.collect-filter-btn.active { background: #065f46; border-color: #10b981; color: #6ee7b7; }
+.stage-数码蛋 { background: #a3a3a322; color: #d4d4d4; border: 1px solid #a3a3a355; }
 .stage-幼年期I { background: #7c3aed22; color: #a78bfa; border: 1px solid #7c3aed55; }
 .stage-幼年期II { background: #8b5cf622; color: #c4b5fd; border: 1px solid #8b5cf655; }
 .stage-成长期 { background: #10b98122; color: #6ee7b7; border: 1px solid #10b98155; }
@@ -240,6 +304,7 @@ body {
         </div>
         <div id="filter-box">
             <button class="filter-btn active" data-stage="all">全部</button>
+            <button class="filter-btn" data-stage="数码蛋">蛋</button>
             <button class="filter-btn" data-stage="幼年期I">幼年I</button>
             <button class="filter-btn" data-stage="幼年期II">幼年II</button>
             <button class="filter-btn" data-stage="成长期">成长期</button>
@@ -249,6 +314,11 @@ body {
             <button class="filter-btn" data-stage="超究极">超究极</button>
             <button class="filter-btn" data-stage="装甲体">装甲体</button>
             <button class="filter-btn" data-stage="无等级">无等级</button>
+        </div>
+        <div class="collect-filter-box">
+            <button class="collect-filter-btn active" data-collect="all">全部</button>
+            <button class="collect-filter-btn" data-collect="collected">已收录</button>
+            <button class="collect-filter-btn" data-collect="uncollected">未收录</button>
         </div>
         <div id="digimon-list"></div>
     </div>
@@ -273,8 +343,11 @@ let visNodes = null;
 let visEdges = null;
 let selectedNode = null;
 let currentFilter = 'all';
+let currentCollectFilter = 'all';
+let collectedSet = new Set();
 
 const stageColors = {
+    '数码蛋':    { bg: '#a3a3a3', border: '#d4d4d4', highlight: { bg: '#d4d4d4', border: '#e5e5e5' } },
     '幼年期I':   { bg: '#7c3aed', border: '#a78bfa', highlight: { bg: '#8b5cf6', border: '#c4b5fd' } },
     '幼年期II':  { bg: '#8b5cf6', border: '#c4b5fd', highlight: { bg: '#a78bfa', border: '#ddd6fe' } },
     '成长期':    { bg: '#10b981', border: '#6ee7b7', highlight: { bg: '#34d399', border: '#a7f3d0' } },
@@ -287,7 +360,7 @@ const stageColors = {
     '':          { bg: '#4b5563', border: '#9ca3af', highlight: { bg: '#6b7280', border: '#d1d5db' } }
 };
 
-const stageOrder = ['幼年期I', '幼年期II', '成长期', '成熟期', '完全体', '究极体', '超究极', '装甲体', '无等级', ''];
+const stageOrder = ['数码蛋', '幼年期I', '幼年期II', '成长期', '成熟期', '完全体', '究极体', '超究极', '装甲体', '无等级', ''];
 
 function getStageColor(stage) {
     return stageColors[stage] || stageColors[''];
@@ -295,7 +368,7 @@ function getStageColor(stage) {
 
 function getNodeSize(stage) {
     const sizes = {
-        '幼年期I': 20, '幼年期II': 24, '成长期': 30,
+        '数码蛋': 16, '幼年期I': 20, '幼年期II': 24, '成长期': 30,
         '成熟期': 36, '完全体': 42, '究极体': 48,
         '超究极': 54, '装甲体': 34, '无等级': 30, '': 26
     };
@@ -318,9 +391,46 @@ async function loadData() {
     allEdges = evoData.edges;
     allNodes.forEach(n => { nodeMap[n.name] = n; });
 
+    // 加载收录数据
+    loadCollection();
+
     renderList();
     initNetwork();
     updateStats();
+}
+
+function loadCollection() {
+    try {
+        const saved = localStorage.getItem('dtrb2_collection');
+        if (saved) {
+            const arr = JSON.parse(saved);
+            collectedSet = new Set(arr);
+        }
+    } catch (e) {
+        collectedSet = new Set();
+    }
+}
+
+function saveCollection() {
+    try {
+        localStorage.setItem('dtrb2_collection', JSON.stringify([...collectedSet]));
+    } catch (e) {}
+}
+
+function toggleCollection(name, event) {
+    if (event) event.stopPropagation();
+    if (collectedSet.has(name)) {
+        collectedSet.delete(name);
+    } else {
+        collectedSet.add(name);
+    }
+    saveCollection();
+    renderList();
+    updateStats();
+}
+
+function isCollected(name) {
+    return collectedSet.has(name);
 }
 
 function renderList() {
@@ -330,6 +440,8 @@ function renderList() {
     let filtered = allNodes.filter(n => {
         if (currentFilter !== 'all' && n.stage !== currentFilter) return false;
         if (search && !n.name.toLowerCase().includes(search)) return false;
+        if (currentCollectFilter === 'collected' && !isCollected(n.name)) return false;
+        if (currentCollectFilter === 'uncollected' && isCollected(n.name)) return false;
         return true;
     });
 
@@ -342,16 +454,21 @@ function renderList() {
 
     container.innerHTML = filtered.map(n => {
         const sel = selectedNode === n.name ? ' selected' : '';
+        const collected = isCollected(n.name);
+        const collectedClass = collected ? ' collected' : '';
         const imgPath = getImagePath(n.name);
         const imgHtml = imgPath
             ? `<img class="thumb" src="${imgPath}" alt="${n.name}" onerror="this.style.display='none'">`
-            : `<div class="thumb" style="background:#1f2937;display:flex;align-items:center;justify-content:center;font-size:10px;color:#4b5563">无</div>`;
-        return `<div class="digimon-item${sel}" onclick="selectDigimon('${n.name.replace(/'/g, "\\'")}')">
+            : `<div class="thumb" style="background:#1f2937;display:flex;align-items:center;justify-content:center;font-size:10px;color:#4b5563">?</div>`;
+        return `<div class="digimon-item${sel}${collectedClass}" onclick="selectDigimon('${n.name.replace(/'/g, "\\'")}')">
             ${imgHtml}
             <div class="info">
                 <span class="name">${n.name}</span>
                 <span class="stage-tag stage-${n.stage}">${n.stage || '未知'}</span>
             </div>
+            <button class="collect-btn${collected ? ' collected' : ''}" onclick="toggleCollection('${n.name.replace(/'/g, "\\'")}', event)" title="${collected ? '取消收录' : '标记收录'}">
+                ${collected ? '✓' : ''}
+            </button>
         </div>`;
     }).join('');
 }
@@ -479,8 +596,9 @@ function selectDigimon(name) {
         if (!isRelated) {
             return {
                 id: n.name,
-                opacity: 0.08,
-                font: { color: '#222', size: 8 }
+                opacity: 0.3,
+                font: { color: '#555', size: 9 },
+                fixed: { x: true, y: true }
             };
         }
 
@@ -490,7 +608,8 @@ function selectDigimon(name) {
                 opacity: 1,
                 size: isCenter ? getNodeSize(n.stage) * 1.6 : getNodeSize(n.stage),
                 font: { color: '#fff', size: isCenter ? 14 : 11, strokeWidth: 3, strokeColor: '#0a0e17' },
-                color: { border: isCenter ? '#60a5fa' : sc.border }
+                color: { border: isCenter ? '#60a5fa' : sc.border },
+                fixed: { x: false, y: false }
             };
         }
 
@@ -499,7 +618,8 @@ function selectDigimon(name) {
             opacity: 1,
             size: isCenter ? getNodeSize(n.stage) * 1.6 : getNodeSize(n.stage),
             font: { color: '#fff', size: isCenter ? 14 : 11, strokeWidth: 3, strokeColor: '#0a0e17' },
-            color: { background: sc.bg, border: isCenter ? '#60a5fa' : sc.border, highlight: sc.highlight }
+            color: { background: sc.bg, border: isCenter ? '#60a5fa' : sc.border, highlight: sc.highlight },
+            fixed: { x: false, y: false }
         };
     });
     visNodes.update(updates);
@@ -598,7 +718,8 @@ function resetNodeStyles() {
                 opacity: 1,
                 size: getNodeSize(n.stage),
                 font: { color: '#e0e0e0', size: 11, strokeWidth: 3, strokeColor: '#0a0e17' },
-                color: { border: sc.border }
+                color: { border: sc.border },
+                fixed: { x: false, y: false }
             };
         }
 
@@ -607,7 +728,8 @@ function resetNodeStyles() {
             opacity: 1,
             size: getNodeSize(n.stage),
             font: { color: '#e0e0e0', size: 11, strokeWidth: 3, strokeColor: '#0a0e17' },
-            color: { background: sc.bg, border: sc.border, highlight: sc.highlight }
+            color: { background: sc.bg, border: sc.border, highlight: sc.highlight },
+            fixed: { x: false, y: false }
         };
     });
     visNodes.update(updates);
@@ -631,8 +753,18 @@ function showAll() {
 }
 
 function updateStats() {
-    let html = `共 ${allNodes.length} 个数码兽 · ${allEdges.length} 条进化路线 · ${Object.keys(imageMap).length} 张图片`;
-    document.getElementById('stats').textContent = html;
+    const total = allNodes.length;
+    const collected = collectedSet.size;
+    const percent = total > 0 ? Math.round((collected / total) * 100) : 0;
+
+    let html = `<div class="stat-row">
+        <span class="stat-item"><span class="stat-dot" style="background:#4b5563"></span> ${total} 数码兽</span>
+        <span class="stat-item"><span class="stat-dot" style="background:#10b981"></span> ${collected} 已收录</span>
+        <span class="stat-item">${allEdges.length} 条进化</span>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" style="width:${percent}%"></div></div>
+    <div>图鉴完成度: ${percent}%</div>`;
+    document.getElementById('stats').innerHTML = html;
 }
 
 document.getElementById('search-input').addEventListener('input', renderList);
@@ -642,6 +774,15 @@ document.querySelectorAll('.filter-btn').forEach(btn => {
         document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
         currentFilter = btn.dataset.stage;
+        renderList();
+    });
+});
+
+document.querySelectorAll('.collect-filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.collect-filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentCollectFilter = btn.dataset.collect;
         renderList();
     });
 });

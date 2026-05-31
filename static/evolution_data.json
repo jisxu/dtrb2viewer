@@ -2,14 +2,14 @@
   "nodes": [
     {
       "name": "普通数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "黑球兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -23,7 +23,7 @@
     },
     {
       "name": "巨龙数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -58,7 +58,7 @@
     },
     {
       "name": "雪球兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -72,7 +72,7 @@
     },
     {
       "name": "海兽数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -93,14 +93,14 @@
     },
     {
       "name": "普尼兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "野兽数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -121,7 +121,7 @@
     },
     {
       "name": "小龙兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -135,7 +135,7 @@
     },
     {
       "name": "芝高兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -149,7 +149,7 @@
     },
     {
       "name": "绿叶兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -163,14 +163,14 @@
     },
     {
       "name": "昆虫数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "普路路兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -184,14 +184,14 @@
     },
     {
       "name": "鸟类数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "粒粒兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -205,7 +205,7 @@
     },
     {
       "name": "泡泡兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -233,7 +233,7 @@
     },
     {
       "name": "漂游兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -247,7 +247,7 @@
     },
     {
       "name": "电鼠兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -261,21 +261,21 @@
     },
     {
       "name": "机械数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "狡诈兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "水母兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -289,21 +289,21 @@
     },
     {
       "name": "黑暗数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "嘿嘿兽数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "嘿嘿兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -317,21 +317,21 @@
     },
     {
       "name": "烟云兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "果冻兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "可可兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -345,7 +345,7 @@
     },
     {
       "name": "多多兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -359,7 +359,7 @@
     },
     {
       "name": "沙砾兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -373,7 +373,7 @@
     },
     {
       "name": "狐狐兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -387,42 +387,42 @@
     },
     {
       "name": "纽奇兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "植物数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "比兹兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "普瓦兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "浮球兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "小天使兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -436,21 +436,21 @@
     },
     {
       "name": "神圣数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "小拨片兽数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "小拨片兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -464,14 +464,14 @@
     },
     {
       "name": "溜溜兽数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "溜溜兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -485,7 +485,7 @@
     },
     {
       "name": "炸弹兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -499,14 +499,14 @@
     },
     {
       "name": "普斯兽数码蛋",
-      "stage": "",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "普斯兽",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -520,7 +520,7 @@
     },
     {
       "name": "强化巨龙数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -597,7 +597,7 @@
     },
     {
       "name": "强化野兽数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -660,7 +660,7 @@
     },
     {
       "name": "强化神圣数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -723,7 +723,7 @@
     },
     {
       "name": "强化黑暗数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -821,7 +821,7 @@
     },
     {
       "name": "强化鸟类数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -877,7 +877,7 @@
     },
     {
       "name": "强化海兽数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -919,7 +919,7 @@
     },
     {
       "name": "强化机械数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -961,7 +961,7 @@
     },
     {
       "name": "强化昆虫数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -1024,7 +1024,7 @@
     },
     {
       "name": "强化植物数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
@@ -1122,14 +1122,14 @@
     },
     {
       "name": "叽叽兽数码蛋",
-      "stage": "",
+      "stage": "幼年期I",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "叽叽兽",
-      "stage": "",
+      "stage": "幼年期II",
       "type": "",
       "element": "",
       "attribute": ""
@@ -1829,7 +1829,7 @@
     },
     {
       "name": "猎鹰兽（原种）",
-      "stage": "",
+      "stage": "成长期",
       "type": "",
       "element": "",
       "attribute": ""
@@ -2109,14 +2109,14 @@
     },
     {
       "name": "最初的数码蛋",
-      "stage": "",
+      "stage": "幼年期II",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "乌科兽",
-      "stage": "",
+      "stage": "成长期",
       "type": "",
       "element": "",
       "attribute": ""
@@ -2186,14 +2186,14 @@
     },
     {
       "name": "圣诞亚古兽",
-      "stage": "",
+      "stage": "成长期",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "圣诞雪球兽",
-      "stage": "",
+      "stage": "成长期",
       "type": "",
       "element": "",
       "attribute": ""
@@ -2795,7 +2795,7 @@
     },
     {
       "name": "死X多路加兽",
-      "stage": "",
+      "stage": "成熟期",
       "type": "",
       "element": "",
       "attribute": ""
@@ -3453,7 +3453,7 @@
     },
     {
       "name": "死X多路暴龙兽",
-      "stage": "",
+      "stage": "完全体",
       "type": "",
       "element": "",
       "attribute": ""
@@ -3852,7 +3852,7 @@
     },
     {
       "name": "轩辕兽",
-      "stage": "",
+      "stage": "究极体",
       "type": "",
       "element": "",
       "attribute": ""
@@ -3880,35 +3880,35 @@
     },
     {
       "name": "混沌战斗暴龙兽",
-      "stage": "",
+      "stage": "究极体",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "混沌海龙兽",
-      "stage": "",
+      "stage": "究极体",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "混沌小丑兽",
-      "stage": "",
+      "stage": "究极体",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "混沌领主",
-      "stage": "",
+      "stage": "究极体",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "巨大南瓜兽",
-      "stage": "",
+      "stage": "究极体",
       "type": "",
       "element": "",
       "attribute": ""
@@ -3929,21 +3929,21 @@
     },
     {
       "name": "琉璃兽",
-      "stage": "",
+      "stage": "无等级",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "音速狮子兽",
-      "stage": "",
+      "stage": "无等级",
       "type": "",
       "element": "",
       "attribute": ""
     },
     {
       "name": "大雪人兽",
-      "stage": "",
+      "stage": "无等级",
       "type": "",
       "element": "",
       "attribute": ""
