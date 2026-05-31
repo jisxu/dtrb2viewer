@@ -2,7 +2,7 @@
 echo ========================================
 echo   DTRB2 Viewer Build Script
 echo ========================================
-cd /d "%~dp0"
+cd /d "%~dp0\.."
 
 :: 创建输出目录
 if not exist "build" mkdir build

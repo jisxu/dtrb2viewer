@@ -3,7 +3,7 @@
 echo "========================================"
 echo "  DTRB2 Viewer Build Script"
 echo "========================================"
-cd "$(dirname "$0")"
+cd "$(dirname "$0")/.."
 
 # 创建输出目录
 mkdir -p build

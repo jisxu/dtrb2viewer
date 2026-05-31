@@ -37,6 +37,7 @@ set PORT=9090 && dtrb2-viewer.exe
 
 ```bash
 # 使用ecosystem配置文件启动（推荐）
+cd deploy
 pm2 start ecosystem.config.js
 
 # 常用命令
@@ -54,10 +55,10 @@ pm2 startup                 # 设置开机自启
 
 ```bash
 # Windows
-build.bat
+scripts\build.bat
 
 # Linux/Mac
-./build.sh
+./scripts/build.sh
 ```
 
 构建产物输出到 `build/` 目录：
