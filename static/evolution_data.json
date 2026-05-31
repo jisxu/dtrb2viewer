@@ -1,0 +1,8947 @@
+{
+  "nodes": [
+    {
+      "name": "普通数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "黑球兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "滚球兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "火",
+      "attribute": "无No"
+    },
+    {
+      "name": "巨龙数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "迪哥兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "自由",
+      "attribute": "无No"
+    },
+    {
+      "name": "帕古兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "暗",
+      "attribute": "无No"
+    },
+    {
+      "name": "汪喵兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "风",
+      "attribute": "无No"
+    },
+    {
+      "name": "皮那兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "风",
+      "attribute": "无No"
+    },
+    {
+      "name": "雪球兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "喵喵兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "光",
+      "attribute": "无No"
+    },
+    {
+      "name": "海兽数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "犄角兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "土",
+      "attribute": "无No"
+    },
+    {
+      "name": "寒冷兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "冰",
+      "attribute": "无No"
+    },
+    {
+      "name": "普尼兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "野兽数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "布加兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "水",
+      "attribute": "无No"
+    },
+    {
+      "name": "小火焰兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "火",
+      "attribute": "无No"
+    },
+    {
+      "name": "小龙兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "幼龙兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "火",
+      "attribute": "无No"
+    },
+    {
+      "name": "芝高兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "豆丁兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "自由",
+      "attribute": "无No"
+    },
+    {
+      "name": "绿叶兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "蓑虫兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "木",
+      "attribute": "无No"
+    },
+    {
+      "name": "昆虫数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "普路路兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "珀罗兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "风",
+      "attribute": "无No"
+    },
+    {
+      "name": "鸟类数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "粒粒兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "乌帕兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "水",
+      "attribute": "无No"
+    },
+    {
+      "name": "泡泡兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "年糕兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "自由",
+      "attribute": "无No"
+    },
+    {
+      "name": "比高兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "木",
+      "attribute": "无No"
+    },
+    {
+      "name": "种子兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "木",
+      "attribute": "无No"
+    },
+    {
+      "name": "漂游兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "软糖兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "自由",
+      "attribute": "无No"
+    },
+    {
+      "name": "电鼠兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "卡普利兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "钢",
+      "attribute": "无No"
+    },
+    {
+      "name": "机械数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "狡诈兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "水母兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "钩爪兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "暗",
+      "attribute": "无No"
+    },
+    {
+      "name": "黑暗数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "嘿嘿兽数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "嘿嘿兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "也也兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "暗",
+      "attribute": "无No"
+    },
+    {
+      "name": "烟云兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "果冻兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "可可兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "巧克力兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "自由",
+      "attribute": "无No"
+    },
+    {
+      "name": "多多兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "多利兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "自由",
+      "attribute": "无No"
+    },
+    {
+      "name": "沙砾兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "基基兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "火",
+      "attribute": "无No"
+    },
+    {
+      "name": "狐狐兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "波可兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "自由",
+      "attribute": "无No"
+    },
+    {
+      "name": "纽奇兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "植物数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "比兹兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "普瓦兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "浮球兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "小天使兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "丘比兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "光",
+      "attribute": "无No"
+    },
+    {
+      "name": "神圣数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "小拨片兽数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "小拨片兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "拨片兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "自由",
+      "attribute": "无No"
+    },
+    {
+      "name": "溜溜兽数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "溜溜兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "墩墩兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "土",
+      "attribute": "无No"
+    },
+    {
+      "name": "炸弹兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "导弹兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "钢",
+      "attribute": "无No"
+    },
+    {
+      "name": "普斯兽数码蛋",
+      "stage": "数码蛋",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "普斯兽",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "普斯利兽",
+      "stage": "幼年期II",
+      "type": "无",
+      "element": "自由",
+      "attribute": "无No"
+    },
+    {
+      "name": "强化巨龙数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "亚古兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "亚古兽（黑）",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "贝塔兽",
+      "stage": "成长期",
+      "type": "水生",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "积木亚古兽",
+      "stage": "成长期",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "雪人亚古兽",
+      "stage": "成长期",
+      "type": "水生",
+      "element": "冰",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "V仔兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "龙仔兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "基尔兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "哈克兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "点阵亚古兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "强化野兽数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "加布兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "加布兽（黑）",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "迷幻兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "雷",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "加奥兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "电力兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "雷",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "哥布林兽",
+      "stage": "成长期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "单角龙兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "企鹅兽",
+      "stage": "成长期",
+      "type": "鸟类",
+      "element": "冰",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "强化神圣数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "巴达兽",
+      "stage": "成长期",
+      "type": "神圣",
+      "element": "风",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "大耳兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "古尼兽",
+      "stage": "成长期",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "光明兽",
+      "stage": "成长期",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "小毒蜘蛛兽",
+      "stage": "成长期",
+      "type": "昆虫",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "犰狳兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "麻鹰兽",
+      "stage": "成长期",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "高吼兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "强化黑暗数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "加支兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "小恶魔兽",
+      "stage": "成长期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "使魔兽",
+      "stage": "成长期",
+      "type": "黑暗",
+      "element": "风",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "小妖兽",
+      "stage": "成长期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "黑大耳兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "多路兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "管狐兽（黄）",
+      "stage": "成长期",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "小狗兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "雪哥布林兽",
+      "stage": "成长期",
+      "type": "黑暗",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "乌龟兽",
+      "stage": "成长期",
+      "type": "水生",
+      "element": "水",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "流光兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "龙蛇兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "闪蝶兽",
+      "stage": "成长期",
+      "type": "昆虫",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "强化鸟类数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "猎鹰兽",
+      "stage": "成长期",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "比丘兽",
+      "stage": "成长期",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "麻雀兽",
+      "stage": "成长期",
+      "type": "鸟类",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "泳鱼兽",
+      "stage": "成长期",
+      "type": "水生",
+      "element": "水",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "顽石兽",
+      "stage": "成长期",
+      "type": "机械",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "狐狸兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "汀克兽",
+      "stage": "成长期",
+      "type": "昆虫",
+      "element": "风",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "强化海兽数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "哥玛兽",
+      "stage": "成长期",
+      "type": "水生",
+      "element": "水",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "砗磲兽",
+      "stage": "成长期",
+      "type": "水生",
+      "element": "水",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "螃蟹兽",
+      "stage": "成长期",
+      "type": "水生",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "蝌蚪兽",
+      "stage": "成长期",
+      "type": "水生",
+      "element": "水",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "透明玩具亚古兽",
+      "stage": "成长期",
+      "type": "机械",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "强化机械数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "蜡烛兽",
+      "stage": "成长期",
+      "type": "黑暗",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "火焰兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "火波兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "刺针兽",
+      "stage": "成长期",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "野火兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "火",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "强化昆虫数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "虫虫兽",
+      "stage": "成长期",
+      "type": "昆虫",
+      "element": "木",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "甲虫兽",
+      "stage": "成长期",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "水果兽",
+      "stage": "成长期",
+      "type": "植物",
+      "element": "风",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "迪路兽（成长期）",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "管狐兽",
+      "stage": "成长期",
+      "type": "神圣",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "幻蜂兽",
+      "stage": "成长期",
+      "type": "昆虫",
+      "element": "风",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "齿轮兽",
+      "stage": "成长期",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "拉拉兽",
+      "stage": "成长期",
+      "type": "植物",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "强化植物数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "五彩兽",
+      "stage": "成长期",
+      "type": "鸟类",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "巴鲁兽",
+      "stage": "成长期",
+      "type": "植物",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "佛洛拉兽",
+      "stage": "成长期",
+      "type": "植物",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "哈哈兽",
+      "stage": "成长期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "德拉库兽",
+      "stage": "成长期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "玩具亚古兽（黑）",
+      "stage": "成长期",
+      "type": "机械",
+      "element": "自由",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "碧龙兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "萨满兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "剑道兽",
+      "stage": "成长期",
+      "type": "机械",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "突击龙兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "明星兽（合体战争）",
+      "stage": "成长期",
+      "type": "机械",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "明星兽S",
+      "stage": "成长期",
+      "type": "机械",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "伽马兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "光",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "叽叽兽数码蛋",
+      "stage": "幼年期I",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "叽叽兽",
+      "stage": "幼年期II",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "雏鸡兽",
+      "stage": "成长期",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "点阵猎鹰兽",
+      "stage": "成长期",
+      "type": "鸟类",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "刺猬兽",
+      "stage": "成长期",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "巨龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "暴龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "暴龙兽（蓝）",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "大地暴龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "大便兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "角龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "暴龙兽（合体战争）",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "古拉兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "铁钩兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "自由",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "风灾兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "雪人兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "冰",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "海龙兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "冰恶魔兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "苍龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "甲板龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "鬼怪兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "V仔兽EX",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "加鲁鲁兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "加鲁鲁兽（黑）",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "钻头鼹鼠兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "伪钻头鼹鼠兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "狮子兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "天使兽",
+      "stage": "成熟期",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "比多兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "鼻涕兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "杜宾犬兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "獠牙兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "裂破兽",
+      "stage": "成熟期",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "兔儿爷兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "三毛猫兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "刃龙兽",
+      "stage": "成熟期",
+      "type": "鸟类",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "狙击兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "木",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "九尾兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "加鲁哥兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "魔像兽PS",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "比特兽",
+      "stage": "成熟期",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "巫师兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "明星兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "战甲兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "钢",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "蛇鸡兽",
+      "stage": "成熟期",
+      "type": "鸟类",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "冠恐鸟兽",
+      "stage": "成熟期",
+      "type": "鸟类",
+      "element": "土",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "天马兽",
+      "stage": "装甲体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "巴达麻雀兽",
+      "stage": "无等级",
+      "type": "神圣",
+      "element": "钢",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "恶魔兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "女巫兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "风",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "迪路兽",
+      "stage": "成熟期",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "黑迪路兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "V龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "刃王哈克兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "纳芙蒂兽",
+      "stage": "装甲体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "天鹰兽",
+      "stage": "成熟期",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "海狮兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "冰",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "奥加兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "傻狗兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "疾速兽（黄金）",
+      "stage": "装甲体",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "温迪兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "黑加鲁哥兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "彼得兽",
+      "stage": "成熟期",
+      "type": "神圣",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "不行兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "自由",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "光明兽：堕落形态",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "自由",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "虫蛹兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "疯狂狮子兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "哈努兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "德尔塔兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "什么兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "幽暗兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "加奥加兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "风",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "鬼魂兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "蟑螂兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "武士兽",
+      "stage": "成熟期",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "黑古拉兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "飞龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "核龙兽（蓝）",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "核龙兽（绿）",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "守卫机器人兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "古拉兽（橙）",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "守卫机器人兽（金）",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "冰河兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "铠甲鸟龙兽",
+      "stage": "成熟期",
+      "type": "鸟类",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "大象兽",
+      "stage": "装甲体",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "音速兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "刺钉兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "木",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "牛人兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "锹形虫兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "木",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "野菜兽",
+      "stage": "成熟期",
+      "type": "植物",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "冰石兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "虾龙兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "朋克兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "兵卒兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "暗",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "多路加兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "胡蜂兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "银龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "啄木鸟兽",
+      "stage": "成熟期",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "阿耆尼兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "强袭龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "野狼兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "猎鹰兽（原种）",
+      "stage": "成长期",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "埃癸奥兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "红色V龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "卑劣兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "巴多拉兽",
+      "stage": "成熟期",
+      "type": "鸟类",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "仙人掌兽",
+      "stage": "成熟期",
+      "type": "植物",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "龙人兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "厄俄斯兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "雷",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "墨鱼兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "水",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "冰熊兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "闪电龙兽",
+      "stage": "装甲体",
+      "type": "巨龙",
+      "element": "雷",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "V龙兽（黑）",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "烈焰龙兽",
+      "stage": "装甲体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "玛格纳兽",
+      "stage": "装甲体",
+      "type": "神圣",
+      "element": "钢",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "黄金V龙兽",
+      "stage": "装甲体",
+      "type": "巨龙",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "沙地蜻蜓兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "爱精灵兽",
+      "stage": "装甲体",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "爱精灵兽（绿）",
+      "stage": "装甲体",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "挖掘兽",
+      "stage": "装甲体",
+      "type": "昆虫",
+      "element": "土",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "潜艇兽",
+      "stage": "装甲体",
+      "type": "水生",
+      "element": "钢",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "绵羊兽",
+      "stage": "装甲体",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "荷鲁斯兽",
+      "stage": "装甲体",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "手里剑兽",
+      "stage": "装甲体",
+      "type": "植物",
+      "element": "风",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "大嘴鸟兽",
+      "stage": "装甲体",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "异特龙兽",
+      "stage": "装甲体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "怪蛙兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "水",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "拉娜兽",
+      "stage": "成熟期",
+      "type": "水生",
+      "element": "水",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "黑基尔兽",
+      "stage": "成长期",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "弩炮兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "电光兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "黄蜂兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "风",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "枯木兽",
+      "stage": "成熟期",
+      "type": "植物",
+      "element": "木",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "向日葵兽",
+      "stage": "成熟期",
+      "type": "植物",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "蜻蜓兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "高吼兽（王）",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "奥米加高吼兽",
+      "stage": "完全体",
+      "type": "神圣",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "高吼兽X2",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "流星兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "疯狂狮子兽：武装形态",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "仙女兽",
+      "stage": "成熟期",
+      "type": "昆虫",
+      "element": "风",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "最初的数码蛋",
+      "stage": "幼年期II",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "乌科兽",
+      "stage": "成长期",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "大乌科兽",
+      "stage": "究极体",
+      "type": "无",
+      "element": "自由",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "参宿四伽马兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "弧矢一伽马兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "雷",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "箕宿三伽马兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "轩辕十四伽马兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "无赖兽",
+      "stage": "成熟期",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "高等突击龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "海豹龙兽",
+      "stage": "成熟期",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "针毛兽",
+      "stage": "成熟期",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "圣诞亚古兽",
+      "stage": "成长期",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "圣诞雪球兽",
+      "stage": "成长期",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "圣诞雪人兽",
+      "stage": "完全体",
+      "type": "无",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "大师巨龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "金属巨龙兽",
+      "stage": "完全体",
+      "type": "机械",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "朱红兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "腕龙兽",
+      "stage": "完全体",
+      "type": "水生",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "EX巨龙兽",
+      "stage": "完全体",
+      "type": "机械",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "机械暴龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "骷髅暴龙兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "大古拉兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "天翔V龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "机械暴龙兽（病毒）",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "大古拉兽（橙）",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "雷",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "跃升暴龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "翔龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "三角龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "多路暴龙兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "机械暴龙兽（合体战争）",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "兽人加鲁鲁",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "兽人加鲁鲁（黑）",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "音速加奥加兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "风",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "白狮兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "熊猫兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "恶霸熊仔兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "恶海龙兽",
+      "stage": "完全体",
+      "type": "水生",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "黑疾速兽",
+      "stage": "完全体",
+      "type": "机械",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "蓝色火焰兽",
+      "stage": "完全体",
+      "type": "机械",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "猿猴兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "拉比兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "百万龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "阿修罗兽",
+      "stage": "完全体",
+      "type": "神圣",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "地龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "豆豆兽",
+      "stage": "完全体",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "迦楼罗兽",
+      "stage": "完全体",
+      "type": "鸟类",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "黑暗巨星兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "吸血魔兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "超级明星兽",
+      "stage": "完全体",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "数码蛋兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "陨石兽",
+      "stage": "完全体",
+      "type": "机械",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "装载狮子兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "纳米兽",
+      "stage": "完全体",
+      "type": "机械",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "熊仔兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "白金鼻涕兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "水",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "巨鲸兽",
+      "stage": "完全体",
+      "type": "水生",
+      "element": "水",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "幻影兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "神圣天使兽",
+      "stage": "完全体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "机甲龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "大锹形虫兽",
+      "stage": "完全体",
+      "type": "昆虫",
+      "element": "木",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "超比多兽（蓝）",
+      "stage": "完全体",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "骷髅撒旦兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "地狱使者兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "电子龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "超比多兽（红）",
+      "stage": "完全体",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "大师V龙兽",
+      "stage": "成熟期",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "大蛇兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "水",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "百万海龙兽",
+      "stage": "完全体",
+      "type": "水生",
+      "element": "水",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "奇虾兽",
+      "stage": "完全体",
+      "type": "水生",
+      "element": "水",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "飞车龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "祖顿兽",
+      "stage": "完全体",
+      "type": "水生",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "天女兽",
+      "stage": "完全体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "胧魂兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "南瓜兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "女恶魔兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "骏鹰兽",
+      "stage": "完全体",
+      "type": "鸟类",
+      "element": "火",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "祭师兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "救世主哈克兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "新种恶魔兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "土偶兽",
+      "stage": "完全体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "祖利兽",
+      "stage": "完全体",
+      "type": "植物",
+      "element": "木",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "华丽兽",
+      "stage": "完全体",
+      "type": "鸟类",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "花仙兽",
+      "stage": "完全体",
+      "type": "植物",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "丁香兽",
+      "stage": "完全体",
+      "type": "植物",
+      "element": "风",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "冒充兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "人面战鹰兽",
+      "stage": "完全体",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "安底罗兽（神将）",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "贤者兽",
+      "stage": "完全体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "恶鬼梅尔瓦兽",
+      "stage": "无等级",
+      "type": "黑暗",
+      "element": "土",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "黑大古拉兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "冰晶苍龙兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "铁钩船长兽",
+      "stage": "完全体",
+      "type": "水生",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "鹦鹉兽",
+      "stage": "完全体",
+      "type": "鸟类",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "八咫乌兽",
+      "stage": "完全体",
+      "type": "鸟类",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "安底罗兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "剑狮兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "疯狂狮子兽：大蛇形态",
+      "stage": "无等级",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "疯狂狮子兽：最终形态",
+      "stage": "无等级",
+      "type": "野兽",
+      "element": "自由",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "死X多路加兽",
+      "stage": "成熟期",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "炮蜂兽",
+      "stage": "完全体",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "人鱼兽",
+      "stage": "完全体",
+      "type": "水生",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "老爷怪蛙兽",
+      "stage": "完全体",
+      "type": "水生",
+      "element": "水",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "躁响兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "布利陀罗兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "阿尔达兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "加鲁姆兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "舒兹兽",
+      "stage": "完全体",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "巴萨兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "雷光兽",
+      "stage": "完全体",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "长蘑菇的音速狮子兽",
+      "stage": "无等级",
+      "type": "野兽",
+      "element": "木",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "埃癸奥都斯兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "巨型破坏不行兽",
+      "stage": "无等级",
+      "type": "机械",
+      "element": "自由",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "金属高吼兽",
+      "stage": "无等级",
+      "type": "巨龙",
+      "element": "雷",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "卡诺维斯兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "轩辕十四兽",
+      "stage": "完全体",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "武天兽",
+      "stage": "完全体",
+      "type": "鸟类",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "巨硬针毛兽",
+      "stage": "完全体",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "战斗暴龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "无限龙兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "胜利暴龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "红莲骑士兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "红锈巨龙兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "黑战斗暴龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "电光暴龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "铠皇兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "闪光暴龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "斩龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "棘龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "颅骨兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "泰坦兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "策士兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "戴拿兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "恐龙王兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "正义兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "海天使兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "水",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "暗龙兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "金属海龙兽",
+      "stage": "究极体",
+      "type": "水生",
+      "element": "水",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "尼普顿兽",
+      "stage": "究极体",
+      "type": "水生",
+      "element": "水",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "利维亚兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "水",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "千兆海龙兽",
+      "stage": "究极体",
+      "type": "水生",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "水神兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "水",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "魔神兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "河豚兽",
+      "stage": "究极体",
+      "type": "水生",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "偃月加鲁鲁兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "金属猿猴兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "蛇颈龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "水",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "维京兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "螺栓兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "雷",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "炮龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "破坏龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "圣加鲁哥兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "帝皇龙兽：龙形态（黑）",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "炽天使兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "主天使兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "领主骑士兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "智天使兽（善）",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "杰斯兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "凤凰兽",
+      "stage": "究极体",
+      "type": "鸟类",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "座天使兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "维纳斯兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "座天使兽：堕落形态",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "蔷薇兽",
+      "stage": "究极体",
+      "type": "植物",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "瓦尔基里兽",
+      "stage": "究极体",
+      "type": "鸟类",
+      "element": "冰",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "莫斯提兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "莉莉丝兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "贝尔斯塔兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "密涅瓦兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "自由",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "莲花兽",
+      "stage": "究极体",
+      "type": "植物",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "葛叶兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "暗",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "小丑兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "迪亚波罗兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "怨毒吸血魔兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "智天使兽（恶）",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "高贵南瓜兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "别西卜兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "狱门兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "木偶兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "木",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "究极古加兽",
+      "stage": "究极体",
+      "type": "昆虫",
+      "element": "暗",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "祖利兽（圣诞树）",
+      "stage": "究极体",
+      "type": "植物",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "恶魔蛋兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "自由",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "贝尔菲兽：沉睡形态",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "普路托兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "混沌骑士兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "重金属龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "幻影加奥加兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "风",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "阿尔法兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "风神兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "海德拉兽",
+      "stage": "究极体",
+      "type": "植物",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "渡鸦兽",
+      "stage": "究极体",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "瓦尔德兽",
+      "stage": "究极体",
+      "type": "鸟类",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "究极V龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "杜纳斯兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "死X多路暴龙兽",
+      "stage": "完全体",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "王龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "斩伐兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "钢铁加鲁鲁兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "钢铁加鲁鲁兽（黑）",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "冰",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "终弩加鲁鲁兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "芳香兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "阿努比兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "咲耶兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "黑圣加鲁哥兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "雷神兽",
+      "stage": "究极体",
+      "type": "机械",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "番长百合兽",
+      "stage": "究极体",
+      "type": "植物",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "花开领主兽",
+      "stage": "究极体",
+      "type": "植物",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "异次元兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "无",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "力神比多兽",
+      "stage": "究极体",
+      "type": "昆虫",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "虎蜂兽",
+      "stage": "究极体",
+      "type": "昆虫",
+      "element": "风",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "重装狮子兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "噩梦熊仔兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "光明兽：撒旦形态",
+      "stage": "超究极",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "帝皇龙兽：龙形态",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "玛尔斯兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "女王蜂兽",
+      "stage": "究极体",
+      "type": "昆虫",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "奥米加冒充兽",
+      "stage": "无等级",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "凯撒暴龙兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "古代加鲁鲁兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "古代彩虹兽",
+      "stage": "究极体",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "但丁恶魔兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "朱庇特兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "雷",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "魔导碧晶兽",
+      "stage": "究极体",
+      "type": "神圣",
+      "element": "冰",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "尼德霍格兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "天狼星兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "大角星兽",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "柯罗诺兽：神圣形态",
+      "stage": "超究极",
+      "type": "鸟类",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "柯罗诺兽：毁灭形态",
+      "stage": "超究极",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "螺旋兽",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "螺旋兽：激昂形态",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "暗",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "奥米加兽",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "奥米加兽兹瓦特",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "闪光暴龙兽：爆裂形态",
+      "stage": "超究极",
+      "type": "巨龙",
+      "element": "火",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "闪光暴龙兽：毁灭形态",
+      "stage": "超究极",
+      "type": "巨龙",
+      "element": "暗",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "奥米加兽 Alter-S",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "混沌龙兽",
+      "stage": "超究极",
+      "type": "机械",
+      "element": "钢",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "阿尔法兽：王龙剑",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "自由",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "蔷薇兽：爆裂形态",
+      "stage": "超究极",
+      "type": "植物",
+      "element": "木",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "大王花兽",
+      "stage": "究极体",
+      "type": "植物",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "艾可萨兽",
+      "stage": "超究极",
+      "type": "巨龙",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "贝利亚吸血魔兽",
+      "stage": "究极体",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "咲耶兽：巫女模式",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "葛叶兽：巫女模式",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "暗",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "别西卜兽：疾风形态",
+      "stage": "超究极",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "梅尔瓦兽",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "土",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "幻影加奥加兽：爆裂形态",
+      "stage": "超究极",
+      "type": "野兽",
+      "element": "光",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "渡鸦兽：爆裂形态",
+      "stage": "超究极",
+      "type": "鸟类",
+      "element": "风",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "芳香兽：豹式形态",
+      "stage": "究极体",
+      "type": "野兽",
+      "element": "土",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "贝尔菲兽：愤怒形态",
+      "stage": "超究极",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "灭世魔兽",
+      "stage": "超究极",
+      "type": "黑暗",
+      "element": "暗",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "恐虎兽",
+      "stage": "超究极",
+      "type": "野兽",
+      "element": "钢",
+      "attribute": "数据Da"
+    },
+    {
+      "name": "轩辕兽",
+      "stage": "究极体",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "帝皇龙兽：战士形态",
+      "stage": "超究极",
+      "type": "巨龙",
+      "element": "自由",
+      "attribute": "未知Un"
+    },
+    {
+      "name": "雷电兽",
+      "stage": "超究极",
+      "type": "机械",
+      "element": "雷",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "铠皇兽：严刀之型",
+      "stage": "究极体",
+      "type": "巨龙",
+      "element": "风",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "混沌战斗暴龙兽",
+      "stage": "究极体",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "混沌海龙兽",
+      "stage": "究极体",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "混沌小丑兽",
+      "stage": "究极体",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "混沌领主",
+      "stage": "究极体",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "巨大南瓜兽",
+      "stage": "究极体",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "帝皇龙兽：圣骑士形态",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "光",
+      "attribute": "疫苗Va"
+    },
+    {
+      "name": "奥米加兽兹瓦特战损",
+      "stage": "超究极",
+      "type": "神圣",
+      "element": "暗",
+      "attribute": "病毒Vi"
+    },
+    {
+      "name": "琉璃兽",
+      "stage": "无等级",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "音速狮子兽",
+      "stage": "无等级",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "大雪人兽",
+      "stage": "无等级",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    },
+    {
+      "name": "巨型破坏龙兽（紫）",
+      "stage": "",
+      "type": "",
+      "element": "",
+      "attribute": ""
+    }
+  ],
+  "edges": [
+    {
+      "from": "普通数码蛋",
+      "to": "黑球兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "黑球兽",
+      "to": "滚球兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "雪球兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "雪球兽",
+      "to": "喵喵兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "普尼兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普尼兽",
+      "to": "犄角兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "小龙兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "小龙兽",
+      "to": "幼龙兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "芝高兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "芝高兽",
+      "to": "豆丁兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "绿叶兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "绿叶兽",
+      "to": "蓑虫兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "普路路兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普路路兽",
+      "to": "珀罗兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "粒粒兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "粒粒兽",
+      "to": "乌帕兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "泡泡兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "泡泡兽",
+      "to": "年糕兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "漂游兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "漂游兽",
+      "to": "布加兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "电鼠兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "电鼠兽",
+      "to": "卡普利兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "狡诈兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "狡诈兽",
+      "to": "帕古兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "水母兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "水母兽",
+      "to": "钩爪兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "嘿嘿兽数码蛋",
+      "to": "嘿嘿兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "嘿嘿兽",
+      "to": "也也兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "烟云兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "烟云兽",
+      "to": "小火焰兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "果冻兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "果冻兽",
+      "to": "软糖兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "可可兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "可可兽",
+      "to": "巧克力兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "多多兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "多多兽",
+      "to": "多利兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "沙砾兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "沙砾兽",
+      "to": "基基兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "狐狐兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "狐狐兽",
+      "to": "波可兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "纽奇兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "纽奇兽",
+      "to": "种子兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "比兹兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "比兹兽",
+      "to": "布加兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "普瓦兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普瓦兽",
+      "to": "皮那兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "浮球兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "浮球兽",
+      "to": "种子兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普通数码蛋",
+      "to": "小天使兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "小天使兽",
+      "to": "丘比兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "小拨片兽数码蛋",
+      "to": "小拨片兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "小拨片兽",
+      "to": "拨片兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "溜溜兽数码蛋",
+      "to": "溜溜兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "溜溜兽",
+      "to": "墩墩兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "机械数码蛋",
+      "to": "炸弹兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "炸弹兽",
+      "to": "导弹兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普斯兽数码蛋",
+      "to": "普斯兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "普斯兽",
+      "to": "普斯利兽",
+      "condition": "等级≥ 2",
+      "sheet": "幼年期I进化路线"
+    },
+    {
+      "from": "强化巨龙数码蛋",
+      "to": "滚球兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "滚球兽",
+      "to": "亚古兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化野兽数码蛋",
+      "to": "犄角兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "犄角兽",
+      "to": "加布兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化神圣数码蛋",
+      "to": "迪哥兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "迪哥兽",
+      "to": "巴达兽",
+      "condition": "等级≥ 5",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化黑暗数码蛋",
+      "to": "帕古兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "帕古兽",
+      "to": "加支兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化野兽数码蛋",
+      "to": "汪喵兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "汪喵兽",
+      "to": "加奥兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化鸟类数码蛋",
+      "to": "皮那兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "皮那兽",
+      "to": "猎鹰兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化野兽数码蛋",
+      "to": "喵喵兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "喵喵兽",
+      "to": "小狗兽",
+      "condition": "等级≥ 5",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化海兽数码蛋",
+      "to": "布加兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "布加兽",
+      "to": "哥玛兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化机械数码蛋",
+      "to": "小火焰兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "小火焰兽",
+      "to": "蜡烛兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化巨龙数码蛋",
+      "to": "幼龙兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "幼龙兽",
+      "to": "龙仔兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化巨龙数码蛋",
+      "to": "豆丁兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "豆丁兽",
+      "to": "V仔兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化昆虫数码蛋",
+      "to": "蓑虫兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "蓑虫兽",
+      "to": "虫虫兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化鸟类数码蛋",
+      "to": "珀罗兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "珀罗兽",
+      "to": "麻鹰兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化海兽数码蛋",
+      "to": "乌帕兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "乌帕兽",
+      "to": "犰狳兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化昆虫数码蛋",
+      "to": "年糕兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "年糕兽",
+      "to": "甲虫兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化植物数码蛋",
+      "to": "比高兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "比高兽",
+      "to": "比丘兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化植物数码蛋",
+      "to": "种子兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "种子兽",
+      "to": "巴鲁兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化黑暗数码蛋",
+      "to": "钩爪兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "钩爪兽",
+      "to": "哈哈兽",
+      "condition": "等级≥ 6",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "也也兽",
+      "to": "小妖兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化野兽数码蛋",
+      "to": "软糖兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "软糖兽",
+      "to": "大耳兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化黑暗数码蛋",
+      "to": "巧克力兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "巧克力兽",
+      "to": "黑大耳兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化机械数码蛋",
+      "to": "卡普利兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "卡普利兽",
+      "to": "齿轮兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化野兽数码蛋",
+      "to": "多利兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "多利兽",
+      "to": "多路兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化巨龙数码蛋",
+      "to": "基基兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "基基兽",
+      "to": "基尔兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化野兽数码蛋",
+      "to": "波可兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "波可兽",
+      "to": "狐狸兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化神圣数码蛋",
+      "to": "丘比兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "丘比兽",
+      "to": "巴达兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化海兽数码蛋",
+      "to": "寒冷兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "寒冷兽",
+      "to": "碧龙兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "拨片兽",
+      "to": "明星兽（合体战争）",
+      "condition": "等级≥ 4 友情≥ 4♥",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "墩墩兽",
+      "to": "伽马兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "叽叽兽数码蛋",
+      "to": "叽叽兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "叽叽兽",
+      "to": "雏鸡兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "强化机械数码蛋",
+      "to": "导弹兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "导弹兽",
+      "to": "突击龙兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "普斯利兽",
+      "to": "刺猬兽",
+      "condition": "等级≥ 4",
+      "sheet": "幼年期II进化路线"
+    },
+    {
+      "from": "亚古兽",
+      "to": "巨龙兽",
+      "condition": "等级≥ 16 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "滚球兽",
+      "to": "亚古兽（黑）",
+      "condition": "等级≥ 4 黑暗经验≥ 50",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "亚古兽（黑）",
+      "to": "角龙兽",
+      "condition": "等级≥ 16 友情≥ 2.5♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "滚球兽",
+      "to": "雪人亚古兽",
+      "condition": "等级≥ 5 水生经验≥ 125 近防训练≥ 30",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "雪人亚古兽",
+      "to": "雪人兽",
+      "condition": "等级≥ 16 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "滚球兽",
+      "to": "点阵亚古兽",
+      "condition": "等级≥ 20 完成挑战模式：点阵",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汪喵兽",
+      "to": "加布兽",
+      "condition": "等级≥ 6 野兽经验≥ 110 水生经验≥ 20",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "加布兽",
+      "to": "加鲁鲁兽",
+      "condition": "等级≥ 15 友情≥ 4♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "犄角兽",
+      "to": "加布兽（黑）",
+      "condition": "等级≥ 4 黑暗经验≥ 50",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "加布兽（黑）",
+      "to": "加鲁鲁兽（黑）",
+      "condition": "等级≥ 15 友情≥ 4♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "帕古兽",
+      "to": "迷幻兽",
+      "condition": "等级≥ 7 野兽经验≥ 175 友情≥ 3.5♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "迷幻兽",
+      "to": "獠牙兽",
+      "condition": "等级≥ 15 黑暗经验≥ 650 友情≤ .5♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "巴达兽",
+      "to": "天使兽",
+      "condition": "等级≥ 18 友情≥ 4.5♥ 神圣经验≥ 1000",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "帕古兽",
+      "to": "使魔兽",
+      "condition": "等级≥ 5 黑暗经验≥ 200 黑暗经验＞ 神圣经验",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "使魔兽",
+      "to": "恶魔兽",
+      "condition": "等级≥ 15 友情≤ 2.5♥ 黑暗经验≥ 666",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汪喵兽",
+      "to": "小狗兽",
+      "condition": "等级≥ 7 神圣经验≥ 210 野兽经验≥ 50",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "小狗兽",
+      "to": "迪路兽",
+      "condition": "等级≥ 15 神圣经验≥ 350",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "珀罗兽",
+      "to": "迪路兽（成长期）",
+      "condition": "等级≥ 4 野兽经验≥ 50 神圣经验≥ 40 拥有过迪路兽",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "迪路兽（成长期）",
+      "to": "迪路兽",
+      "condition": "等级≥ 15 神圣经验≥ 350",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "迪哥兽",
+      "to": "大耳兽",
+      "condition": "等级≥ 8 野兽经验≥ 50",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "大耳兽",
+      "to": "加鲁哥兽",
+      "condition": "等级≥ 17 野兽经验≥ 520",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "帕古兽",
+      "to": "黑大耳兽",
+      "condition": "等级≥ 10 野兽经验≥ 365 友情≥ 4♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "黑大耳兽",
+      "to": "兔儿爷兽",
+      "condition": "等级≥ 16 友情≥ 4♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "迪哥兽",
+      "to": "光明兽",
+      "condition": "等级≥ 18 神圣经验≥ 350 友情≥ 2.5♥ 胜率≥ 50%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "光明兽",
+      "to": "光明兽：堕落形态",
+      "condition": "等级≥ 70 黑暗经验≥ 60606 友情≥ 2♥ & 友情≤ 4♥ 5个进化器",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "加支兽",
+      "to": "加鲁鲁兽（黑）",
+      "condition": "等级≥ 16 野兽经验≥ 710",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "加奥兽",
+      "to": "加奥加兽",
+      "condition": "等级≥ 16 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "帕古兽",
+      "to": "小恶魔兽",
+      "condition": "等级≥ 4 友情≤ 1.5♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "小恶魔兽",
+      "to": "恶魔兽",
+      "condition": "等级≥ 15 友情≤ 2.5♥ 黑暗经验≥ 666",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "滚球兽",
+      "to": "龙仔兽",
+      "condition": "等级≥ 6 巨龙经验≥ 150",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "龙仔兽",
+      "to": "飞龙兽",
+      "condition": "等级≥ 16 神圣经验≥ 1200",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "滚球兽",
+      "to": "积木亚古兽",
+      "condition": "等级≥ 5 机械经验≥ 100 友情≥ 2.5♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "积木亚古兽",
+      "to": "明星兽",
+      "condition": "等级≥ 16",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "布加兽",
+      "to": "透明玩具亚古兽",
+      "condition": "等级≥ 10 拥有玩具亚古兽 机械经验≥ 200",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "透明玩具亚古兽",
+      "to": "守卫机器人兽（金）",
+      "condition": "等级≥ 15 机械经验≥ 500 防御训练值≥ 280",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "钩爪兽",
+      "to": "玩具亚古兽（黑）",
+      "condition": "等级≥ 6 机械经验≥ 160 黑暗经验≥ 50",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "玩具亚古兽（黑）",
+      "to": "甲板龙兽",
+      "condition": "等级≥ 15 巨龙经验≥ 700 机械经验≥ 1000",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "帕古兽",
+      "to": "哥布林兽",
+      "condition": "等级≥ 6 野兽经验≥ 130 黑暗经验≥ 50",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "哥布林兽",
+      "to": "奥加兽",
+      "condition": "等级≥ 17 黑暗经验≥ 495",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "巧克力兽",
+      "to": "萨满兽",
+      "condition": "等级≥ 6 野兽经验≥ 160 黑暗经验≥ 80",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "萨满兽",
+      "to": "风灾兽",
+      "condition": "等级≥ 15 黑暗经验≥ 500",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汪喵兽",
+      "to": "雪哥布林兽",
+      "condition": "等级≥ 6 水生经验≥ 160 野兽经验≥ 80",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "雪哥布林兽",
+      "to": "冰河兽",
+      "condition": "等级≥ 15 水生经验≥ 750",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "帕古兽",
+      "to": "小妖兽",
+      "condition": "等级≥ 4 黑暗经验≥ 350 友情≥ 2♥ 胜率≥ 60%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "小妖兽",
+      "to": "巫师兽",
+      "condition": "等级≥ 15 友情≥ 2.5♥ 黑暗经验≥ 220",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汪喵兽",
+      "to": "多路兽",
+      "condition": "等级≥ 10 野兽经验≥ 200 黑暗经验≥ 10 胜率≥ 50%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "多路兽",
+      "to": "多路加兽",
+      "condition": "等级≥ 16 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汪喵兽",
+      "to": "龙蛇兽",
+      "condition": "等级≥ 15 野兽经验≥ 320 巨龙经验≥ 650",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "龙蛇兽",
+      "to": "银龙兽",
+      "condition": "等级≥ 15 巨龙经验≥ 550 近防训练≥ 80",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汪喵兽",
+      "to": "管狐兽（黄）",
+      "condition": "等级≥ 5 神圣经验≥ 210 黑暗经验≤ 65",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "管狐兽（黄）",
+      "to": "裂破兽",
+      "condition": "等级≥ 18 友情≥ 2.5♥ 神圣经验≥ 500",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "乌帕兽",
+      "to": "管狐兽",
+      "condition": "等级≥ 6 神圣经验≥ 90 野兽经验≥ 35",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "管狐兽",
+      "to": "飞龙兽",
+      "condition": "等级≥ 15 巨龙经验≥ 150 神圣经验≥ 200",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "小火焰兽",
+      "to": "野火兽",
+      "condition": "等级≥ 12 野兽经验≥ 320 胜率≥ 65%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "野火兽",
+      "to": "阿耆尼兽",
+      "condition": "等级≥ 30 完成挑战模式：第一边疆 巨龙经验≥ 2600",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汪喵兽",
+      "to": "流光兽",
+      "condition": "等级≥ 12 野兽经验≥ 320 胜率≥ 65%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "流光兽",
+      "to": "野狼兽",
+      "condition": "等级≥ 30 完成挑战模式：第一边疆 野兽经验≥ 2600",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "猎鹰兽",
+      "to": "啄木鸟兽",
+      "condition": "等级≥ 16 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "叽叽兽",
+      "to": "点阵猎鹰兽",
+      "condition": "等级≥ 20 完成挑战模式：点阵",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "皮那兽",
+      "to": "电力兽",
+      "condition": "等级≥ 7 野兽经验≥ 120",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "电力兽",
+      "to": "狮子兽",
+      "condition": "等级≥ 15 胜率≥ 50%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "皮那兽",
+      "to": "比丘兽",
+      "condition": "等级≥ 4 鸟类经验≥ 45",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "比丘兽",
+      "to": "蛇鸡兽",
+      "condition": "等级≥ 16 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "皮那兽",
+      "to": "泳鱼兽",
+      "condition": "等级≥ 8 水生经验≥ 125 近攻训练≤ 15",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "泳鱼兽",
+      "to": "海龙兽",
+      "condition": "等级≥ 16 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "皮那兽",
+      "to": "顽石兽",
+      "condition": "等级≥ 7 机械经验≥ 135 近防训练≥ 30",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "顽石兽",
+      "to": "冰石兽",
+      "condition": "等级≥ 16 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "犄角兽",
+      "to": "单角龙兽",
+      "condition": "等级≥ 10 巨龙经验≥ 180 胜率≥ 65%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "单角龙兽",
+      "to": "强袭龙兽",
+      "condition": "等级≥ 15 巨龙经验≥ 210",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "犄角兽",
+      "to": "企鹅兽",
+      "condition": "等级≥ 10 鸟类经验≥ 50 水生经验≥ 30",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "企鹅兽",
+      "to": "雪人兽",
+      "condition": "等级≥ 15 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "比高兽",
+      "to": "五彩兽",
+      "condition": "等级≥ 4 鸟类经验≥ 10 水生经验≥ 5",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "五彩兽",
+      "to": "冠恐鸟兽",
+      "condition": "等级≥ 15 鸟类经验≥ 525 近攻训练≥ 60",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "喵喵兽",
+      "to": "狐狸兽",
+      "condition": "等级≥ 8 野兽经验≥ 55",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "狐狸兽",
+      "to": "九尾兽",
+      "condition": "等级≥ 15 胜率≥ 65%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "滚球兽",
+      "to": "V仔兽",
+      "condition": "等级≥ 10 巨龙经验≥ 200 胜率≥ 65%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "V仔兽",
+      "to": "V龙兽",
+      "condition": "等级≥ 20 友情≥ 4.5♥ 胜率≥ 90%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "比高兽",
+      "to": "虫虫兽",
+      "condition": "等级≥ 13 昆虫经验≥ 260 胜率≥ 75%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "虫虫兽",
+      "to": "刺钉兽",
+      "condition": "等级≥ 15 胜率≥ 80%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "迪哥兽",
+      "to": "犰狳兽",
+      "condition": "等级≥ 13 野兽经验≥ 260 胜率≥ 75%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "犰狳兽",
+      "to": "战甲兽",
+      "condition": "等级≥ 15 机械经验≥ 400",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "迪哥兽",
+      "to": "麻鹰兽",
+      "condition": "等级≥ 13 鸟类经验≥ 260 胜率≥ 75%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "麻鹰兽",
+      "to": "天鹰兽",
+      "condition": "等级≥ 15 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "哥玛兽",
+      "to": "海狮兽",
+      "condition": "等级≥ 15 水生经验≥ 450",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "滚球兽",
+      "to": "贝塔兽",
+      "condition": "等级≥ 4",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "贝塔兽",
+      "to": "海龙兽",
+      "condition": "等级≥ 15 水生经验≥ 320",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "布加兽",
+      "to": "砗磲兽",
+      "condition": "等级≥ 6 水生经验≥ 30",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "砗磲兽",
+      "to": "墨鱼兽",
+      "condition": "等级≥ 15 水生经验≥ 350",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "布加兽",
+      "to": "蝌蚪兽",
+      "condition": "等级≥ 7 水生经验≥ 10",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "蝌蚪兽",
+      "to": "怪蛙兽",
+      "condition": "等级≥ 15 友情≥ 4♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "滚球兽",
+      "to": "基尔兽",
+      "condition": "等级≥ 6 巨龙经验≥ 115",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "基尔兽",
+      "to": "古拉兽",
+      "condition": "等级≥ 15 巨龙经验≥ 350",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "基尔兽",
+      "to": "黑基尔兽",
+      "condition": "携带黑数码核心数据",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "黑基尔兽",
+      "to": "黑古拉兽",
+      "condition": "等级≥ 15 巨龙经验≥ 350 黑暗经验≥ 120",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "年糕兽",
+      "to": "齿轮兽",
+      "condition": "等级≥ 4 机械经验≥ 20",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "齿轮兽",
+      "to": "守卫机器人兽",
+      "condition": "等级≥ 15 机械经验≥ 160",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "甲虫兽",
+      "to": "比多兽",
+      "condition": "等级≥ 15 胜率≥ 75%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "迪哥兽",
+      "to": "古尼兽",
+      "condition": "等级≥ 4 昆虫经验≥ 15",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "古尼兽",
+      "to": "黄蜂兽",
+      "condition": "等级≥ 15 昆虫经验≥ 120",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "比高兽",
+      "to": "巴鲁兽",
+      "condition": "等级≥ 4 植物经验≥ 25",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "巴鲁兽",
+      "to": "仙人掌兽",
+      "condition": "等级≥ 15 植物经验≥ 595",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "哈哈兽",
+      "to": "虫蛹兽",
+      "condition": "等级≥ 18 黑暗经验≥ 1520",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "年糕兽",
+      "to": "幻蜂兽",
+      "condition": "等级≥ 10 昆虫经验≥ 80 友情≥ 2.5♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "幻蜂兽",
+      "to": "胡蜂兽",
+      "condition": "等级≥ 15 机械经验≥ 650 胜率≥ 40%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "布加兽",
+      "to": "螃蟹兽",
+      "condition": "等级≥ 5 近防训练＞ 远防训练 水生经验≥ 12",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "螃蟹兽",
+      "to": "虾龙兽",
+      "condition": "等级≥ 15 水生经验≥ 400 机械经验≥ 125",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "比高兽",
+      "to": "佛洛拉兽",
+      "condition": "等级≥ 5 植物经验≥ 15 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "佛洛拉兽",
+      "to": "野菜兽",
+      "condition": "等级≥ 15 植物经验≥ 150",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "年糕兽",
+      "to": "拉拉兽",
+      "condition": "等级≥ 8 植物经验≥ 52",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "拉拉兽",
+      "to": "向日葵兽",
+      "condition": "等级≥ 15 植物经验≥ 595 友情≥ 2.5♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "滚球兽",
+      "to": "哈克兽",
+      "condition": "等级≥ 6 巨龙经验≥ 50 神圣经验≥ 15",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "哈克兽",
+      "to": "刃王哈克兽",
+      "condition": "等级≥ 15 神圣经验≥ 725 胜率≥ 80%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "珀罗兽",
+      "to": "水果兽",
+      "condition": "等级≥ 6 植物经验≥ 60",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "水果兽",
+      "to": "枯木兽",
+      "condition": "等级≥ 15 植物经验≥ 310",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "钩爪兽",
+      "to": "德拉库兽",
+      "condition": "等级≥ 4 黑暗经验≥ 65 友情≥ 1♥ & 友情≤ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "德拉库兽",
+      "to": "杜宾犬兽",
+      "condition": "等级≥ 15 野兽经验≥ 495",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "卡普利兽",
+      "to": "剑道兽",
+      "condition": "等级≥ 4 机械经验≥ 300 胜率≥ 45%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "剑道兽",
+      "to": "龙人兽",
+      "condition": "等级≥ 15 巨龙经验≥ 300",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "小火焰兽",
+      "to": "火波兽",
+      "condition": "等级≥ 12 巨龙经验≥ 510 胜率≥ 80%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "火波兽",
+      "to": "巨龙兽",
+      "condition": "等级≥ 16 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "迪哥兽",
+      "to": "高吼兽",
+      "condition": "等级≥ 10 巨龙经验≥ 190 胜率≥ 90%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "高吼兽",
+      "to": "高吼兽（王）",
+      "condition": "等级≥ 20 巨龙经验≥ 520 胜率≥ 95%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "明星兽（合体战争）",
+      "to": "明星兽",
+      "condition": "等级≥ 16",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "拨片兽",
+      "to": "明星兽S",
+      "condition": "& 1只明星兽（合体战争）+1只拨片兽 合体进化：1个数码组合芯片 等级≥ 8 友情≥ 4♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "明星兽S",
+      "to": "流星兽",
+      "condition": "等级≥ 16 友情≥ 4♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "皮那兽",
+      "to": "麻雀兽",
+      "condition": "等级≥ 8 鸟类经验≥ 150 机械经验≥ 350",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "麻雀兽",
+      "to": "铠甲鸟龙兽",
+      "condition": "等级≥ 16 鸟类经验≥ 320 机械经验≥ 750",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "小火焰兽",
+      "to": "刺针兽",
+      "condition": "等级≥ 6 机械经验≥ 600",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "刺针兽",
+      "to": "兵卒兽",
+      "condition": "等级≥ 15 机械经验≥ 1000",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "喵喵兽",
+      "to": "汀克兽",
+      "condition": "等级≥ 8 昆虫经验≥ 150",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汀克兽",
+      "to": "仙女兽",
+      "condition": "等级≥ 30 完成挑战模式：第一边疆 昆虫经验≥ 2600",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汪喵兽",
+      "to": "乌龟兽",
+      "condition": "等级≥ 7 水生经验≥ 200 机械经验≥ 50",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "乌龟兽",
+      "to": "龙人兽",
+      "condition": "等级≥ 15 巨龙经验≥ 300",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "最初的数码蛋",
+      "to": "乌科兽",
+      "condition": "创始村数码蛋概率获得",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "乌科兽",
+      "to": "大乌科兽",
+      "condition": "数码兽图鉴数≥ 400 击杀数≥ 15000 等级≥ 90 8个进化器",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "汪喵兽",
+      "to": "闪蝶兽",
+      "condition": "等级≥ 10 昆虫经验≥ 550 拥有过闪蝶兽",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "闪蝶兽",
+      "to": "厄俄斯兽",
+      "condition": "等级≥ 15 机械经验≥ 710 昆虫经验≥ 325",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "软糖兽",
+      "to": "碧龙兽",
+      "condition": "等级≥ 8 水生经验≥200 拥有碧龙兽",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "碧龙兽",
+      "to": "苍龙兽",
+      "condition": "等级≥ 15 水生经验≥ 650 胜率≥ 40%",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "迪哥兽",
+      "to": "小毒蜘蛛兽",
+      "condition": "等级≥ 5 昆虫经验≥ 35 远攻训练值≥ 40",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "小毒蜘蛛兽",
+      "to": "黄蜂兽",
+      "condition": "等级≥ 15 昆虫经验≥ 120",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "伽马兽",
+      "to": "参宿四伽马兽",
+      "condition": "等级≥ 16 友情≥ 3♥ 巨龙经验≥ 700",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "蜡烛兽",
+      "to": "火焰兽",
+      "condition": "等级≥ 15 友情≥ 2.5♥ 机械经验≥ 250",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "雏鸡兽",
+      "to": "无赖兽",
+      "condition": "等级≥ 15 友情≥ 3♥ 鸟类经验≥ 1200 近攻训练值≥ 150",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "卡普利兽",
+      "to": "突击龙兽",
+      "condition": "等级≥ 9 拥有过突击龙兽 机械经验≥ 550",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "突击龙兽",
+      "to": "高等突击龙兽",
+      "condition": "等级≥ 16 胜率≥ 50% 机械经验≥ 325",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "刺猬兽",
+      "to": "针毛兽",
+      "condition": "等级≥ 15 野兽经验≥ 1000 友情≥ 3♥",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "圣诞雪球兽",
+      "to": "圣诞雪人兽",
+      "condition": "等级≥ 50 友情≥ 4♥ 水生经验≥ 5900",
+      "sheet": "成长期进化路线 "
+    },
+    {
+      "from": "巨龙兽",
+      "to": "大师巨龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 3250 胜率≥ 95%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "亚古兽",
+      "to": "暴龙兽",
+      "condition": "等级≥ 18 友情≥ 4♥ 巨龙经验≥ 675 胜率≥ 60%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "暴龙兽",
+      "to": "机械暴龙兽",
+      "condition": "等级≥ 45 友情≥ 4♥ 巨龙经验≥ 6750",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "亚古兽",
+      "to": "暴龙兽（蓝）",
+      "condition": "等级≥ 18 携带黑数码核心数据 黑暗经验≥ 715",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "暴龙兽（蓝）",
+      "to": "机械暴龙兽（病毒）",
+      "condition": "等级≥ 45 巨龙经验≥ 4500 机械经验≥ 3185",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "亚古兽",
+      "to": "大地暴龙兽",
+      "condition": "等级≥ 20 友情≥ 4♥ 巨龙经验≥ 710 胜率≥ 80%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "大地暴龙兽",
+      "to": "跃升暴龙兽",
+      "condition": "等级≥ 45 机械经验≥ 3150 巨龙经验≥ 4960",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "亚古兽（黑）",
+      "to": "暴龙兽（合体战争）",
+      "condition": "等级≥ 25 友情≥ 2♥ & 友情≤ 3♥ 巨龙经验≥ 2010 胜率≥ 80%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "暴龙兽（合体战争）",
+      "to": "三角龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加奥兽",
+      "to": "加鲁鲁兽",
+      "condition": "等级≥ 16 野兽经验≥ 355",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加鲁鲁兽",
+      "to": "兽人加鲁鲁",
+      "condition": "等级≥ 45 野兽经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加鲁鲁兽（黑）",
+      "to": "兽人加鲁鲁（黑）",
+      "condition": "等级≥ 45 野兽经验≥ 5200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "哥布林兽",
+      "to": "加奥加兽",
+      "condition": "等级≥ 16 野兽经验≥ 535",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加奥加兽",
+      "to": "音速加奥加兽",
+      "condition": "等级≥ 45 野兽经验≥ 5100 胜率≥ 50%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "角龙兽",
+      "to": "朱红兽",
+      "condition": "等级≥ 55",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "亚古兽",
+      "to": "火焰兽",
+      "condition": "等级≥ 19 友情≥ 2.5♥ 巨龙经验≥ 15 机械经验≥ 510",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "火焰兽",
+      "to": "蓝色火焰兽",
+      "condition": "等级≥ 45 友情≤ 2.5♥ 胜率≥ 45%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "明星兽",
+      "to": "超级明星兽",
+      "condition": "等级≥ 45 胜率≥ 50%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "明星兽（合体战争）",
+      "to": "流星兽",
+      "condition": "等级≥ 18 友情≥ 4♥ 机械经验≥ 500 拥有过明星兽S",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "流星兽",
+      "to": "超级明星兽",
+      "condition": "等级≥ 45 胜率≥ 50%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "积木亚古兽",
+      "to": "守卫机器人兽",
+      "condition": "等级≥ 16 机械经验≥ 500 近防训练≥ 110",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "守卫机器人兽",
+      "to": "百万龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 4500 黑暗经验≥ 404",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "幻蜂兽",
+      "to": "守卫机器人兽（金）",
+      "condition": "等级≥ 25 机械经验≥ 1890 防御训练值≥ 450",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "守卫机器人兽（金）",
+      "to": "纳米兽",
+      "condition": "等级≥ 45 机械经验≥ 6790",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加支兽",
+      "to": "什么兽",
+      "condition": "等级≥ 15 胜率≤ 30%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "什么兽",
+      "to": "猿猴兽",
+      "condition": "等级≥ 45 野兽经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "亚古兽",
+      "to": "大便兽",
+      "condition": "等级≥ 15 胜率≤ 30%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "大便兽",
+      "to": "猿猴兽",
+      "condition": "等级≥ 45 野兽经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加支兽",
+      "to": "鼻涕兽",
+      "condition": "等级≥ 15 胜率≤ 30%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "鼻涕兽",
+      "to": "熊仔兽",
+      "condition": "等级≥ 45 野兽经验≥ 6800 友情≥ 4.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "电力兽",
+      "to": "卑劣兽",
+      "condition": "等级≥ 15 胜率≤ 30%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "卑劣兽",
+      "to": "猿猴兽",
+      "condition": "等级≥ 45 野兽经验≥ 6500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "V仔兽",
+      "to": "V仔兽EX",
+      "condition": "等级≥ 20 友情≥ 4.5♥ 巨龙经验≥ 500 胜率≥ 75%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "V仔兽EX",
+      "to": "天翔V龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5600 胜率≥ 99%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "哥布林兽",
+      "to": "刺钉兽",
+      "condition": "等级≥ 25 昆虫经验≥ 855 胜率≥ 55%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "刺钉兽",
+      "to": "大锹形虫兽",
+      "condition": "等级≥ 45 昆虫经验≥ 5230",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "V龙兽",
+      "to": "天翔V龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5600 胜率≥ 99%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "电力兽",
+      "to": "红色V龙兽",
+      "condition": "等级≥ 20 友情≤ 2.5♥ 胜率≥ 90%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "红色V龙兽",
+      "to": "天翔V龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5600 胜率≥ 99%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "V仔兽",
+      "to": "V龙兽（黑）",
+      "condition": "等级≥ 22 携带黑数码核心数据 黑暗经验≥ 715",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "V龙兽（黑）",
+      "to": "大蛇兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5800 胜率≥ 60%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "红色V龙兽",
+      "to": "大师V龙兽",
+      "condition": "& 黄金V龙兽 合体进化：1个数码合体芯片 等级≥ 90 巨龙经验≥ 73000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "V仔兽",
+      "to": "飞龙兽",
+      "condition": "等级≥ 16 巨龙经验≥ 565 神圣经验≥ 800 鸟类经验≥ 50",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "飞龙兽",
+      "to": "百万龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 4500 黑暗经验≥ 404",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "雪人亚古兽",
+      "to": "海龙兽",
+      "condition": "等级≥ 17 水生经验≥ 690",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "海龙兽",
+      "to": "百万海龙兽",
+      "condition": "等级≥ 45 水生经验≥ 5200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "雪人兽",
+      "to": "祖顿兽",
+      "condition": "等级≥ 45 水生经验≥ 5160",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "雪人亚古兽",
+      "to": "鬼怪兽",
+      "condition": "等级≥ 15 胜率≤ 30%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "鬼怪兽",
+      "to": "幻影兽",
+      "condition": "等级≥ 45 黑暗经验≥ 5000 友情≤ .5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加奥兽",
+      "to": "鬼魂兽",
+      "condition": "等级≥ 15 黑暗经验≥ 250 胜率≥ 30%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "鬼魂兽",
+      "to": "幻影兽",
+      "condition": "等级≥ 45 黑暗经验≥ 5000 友情≤ .5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "天使兽",
+      "to": "神圣天使兽",
+      "condition": "等级≥ 45 神圣经验≥ 5500 黑暗经验≤ 100 友情≥ 3♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "比特兽",
+      "condition": "等级≥ 17 友情≥ 4.5♥ 神圣经验≥ 1100",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "比特兽",
+      "to": "神圣天使兽",
+      "condition": "等级≥ 45 神圣经验≥ 5500 黑暗经验≤ 100 友情≥ 3♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "光明兽",
+      "to": "恶魔兽",
+      "condition": "等级≥ 18 友情≤ 2.5♥ 黑暗经验≥ 666",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "恶魔兽",
+      "to": "吸血魔兽",
+      "condition": "等级≥ 45 黑暗经验≥ 6000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "雪人亚古兽",
+      "to": "冰恶魔兽",
+      "condition": "等级≥ 23 友情≤ .5♥ 黑暗经验≥ 666 水生经验≥ 666",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "冰恶魔兽",
+      "to": "骷髅撒旦兽",
+      "condition": "等级≥ 45 黑暗经验≥ 5100",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "九尾兽",
+      "condition": "等级≥ 24 胜率≥ 65% 野兽经验≥ 895",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "九尾兽",
+      "to": "祭师兽",
+      "condition": "等级≥ 45 神圣经验≥ 4900",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "裂破兽",
+      "condition": "等级≥ 24 野兽经验≥ 550 神圣经验≥ 1000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "裂破兽",
+      "to": "神圣天使兽",
+      "condition": "等级≥ 48 神圣经验≥ 5500 黑暗经验≤ 100 友情≥ 4♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "大耳兽",
+      "to": "迪路兽",
+      "condition": "等级≥ 21 神圣经验≥ 765",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "迪路兽",
+      "to": "天女兽",
+      "condition": "等级≥ 45 神圣经验≥ 5200 友情≥ 2.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "小妖兽",
+      "to": "黑迪路兽",
+      "condition": "等级≥ 18 野兽经验≥ 350 黑暗经验≥ 215",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "黑迪路兽",
+      "to": "女恶魔兽",
+      "condition": "等级≥ 45 黑暗经验≥ 4500 友情≥ 4.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加布兽（黑）",
+      "to": "三毛猫兽",
+      "condition": "等级≥ 18 野兽经验≥ 350",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "三毛猫兽",
+      "to": "装载狮子兽",
+      "condition": "等级≥ 48 野兽经验≥ 1850 机械经验≥ 8900 近防训练值≥ 300",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "大耳兽",
+      "to": "奥加兽",
+      "condition": "等级≥ 23 胜率≥ 40% 黑暗经验≥ 350 野兽经验≥ 180",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "奥加兽",
+      "to": "数码蛋兽",
+      "condition": "等级≥ 45 黑暗经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "亚古兽（黑）",
+      "to": "风灾兽",
+      "condition": "等级≥ 25 黑暗经验≥ 300 友情≤ 2.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "风灾兽",
+      "to": "兽人加鲁鲁（黑）",
+      "condition": "等级≥ 45 野兽经验≥ 5200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "冰河兽",
+      "to": "白狮兽",
+      "condition": "等级≥ 45 野兽经验≥ 3200 水生经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "光明兽",
+      "to": "虫蛹兽",
+      "condition": "等级≥ 25 黑暗经验≥ 1520 近防训练≥ 120",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "虫蛹兽",
+      "to": "地狱使者兽",
+      "condition": "等级≥ 45 黑暗经验≥ 6404 友情≤ 1♥ 胜率≥ 65%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "蛇鸡兽",
+      "condition": "等级≥ 19 鸟类经验≥ 890",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "蛇鸡兽",
+      "to": "华丽兽",
+      "condition": "等级≥ 45 鸟类经验≥ 3500 植物经验≥ 3500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "比丘兽",
+      "to": "巴多拉兽",
+      "condition": "等级≥ 16 友情≥ 3.5♥ 鸟类经验≥ 850",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巴多拉兽",
+      "to": "迦楼罗兽",
+      "condition": "等级≥ 45 鸟类经验≥ 2980",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "使魔兽",
+      "to": "刃龙兽",
+      "condition": "等级≥ 22 鸟类经验≥ 1000 黑暗经验≥ 300",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "刃龙兽",
+      "to": "迦楼罗兽",
+      "condition": "等级≥ 45 鸟类经验≥ 2980",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "龙仔兽",
+      "to": "核龙兽（蓝）",
+      "condition": "等级≥ 18 巨龙经验≥ 500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "核龙兽（蓝）",
+      "to": "翔龙兽",
+      "condition": "等级≥ 45 友情≥ 3♥ 胜率≥ 75%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "龙仔兽",
+      "to": "核龙兽（绿）",
+      "condition": "等级≥ 18 巨龙经验≥ 500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "核龙兽（绿）",
+      "to": "地龙兽",
+      "condition": "等级≥ 45 友情≤ 1♥ 胜率≥ 75%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加鲁哥兽",
+      "to": "拉比兽",
+      "condition": "等级≥ 45 机械经验≥ 5300 野兽经验≥ 600",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "黑大耳兽",
+      "to": "黑加鲁哥兽",
+      "condition": "等级≥ 17 野兽经验≥ 500 黑暗经验≥ 25",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "黑加鲁哥兽",
+      "to": "黑疾速兽",
+      "condition": "等级≥ 45 机械经验≥ 5300 野兽经验≥ 600",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "大耳兽",
+      "to": "兔儿爷兽",
+      "condition": "等级≥ 18 野兽经验≥ 260 近攻训练≥ 110",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "兔儿爷兽",
+      "to": "安底罗兽（神将）",
+      "condition": "等级≥ 45 野兽经验≥ 5120 友情≥ 2♥ & 友情≤ 4♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加支兽",
+      "to": "温迪兽",
+      "condition": "等级≥ 20 黑暗经验≥ 625 友情≤ .5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "温迪兽",
+      "to": "安底罗兽",
+      "condition": "等级≥ 45 黑暗经验≥ 3150 友情≥ 2♥ & 友情≤ 4♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加奥兽",
+      "to": "狮子兽",
+      "condition": "等级≥ 17 野兽经验≥ 520 胜率≥ 65%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "狮子兽",
+      "to": "白狮兽",
+      "condition": "等级≥ 45 野兽经验≥ 3200 水生经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加支兽",
+      "to": "疯狂狮子兽",
+      "condition": "等级≥ 18 野兽经验≥ 1200 黑暗经验≥ 950",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "疯狂狮子兽",
+      "to": "骷髅撒旦兽",
+      "condition": "等级≥ 55 黑暗经验≥ 5810",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "刺针兽",
+      "to": "疯狂狮子兽：武装形态",
+      "condition": "& 1只疯狂狮子兽+2只兵卒兽+2只刺针兽 合体进化：1个数码组合芯片 等级≥ 80 机械经验≥ 150000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "猎鹰兽",
+      "to": "天鹰兽",
+      "condition": "等级≥ 20 鸟类经验≥ 890",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "天鹰兽",
+      "to": "迦楼罗兽",
+      "condition": "等级≥ 45 鸟类经验≥ 2980",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "多路加兽",
+      "to": "多路暴龙兽",
+      "condition": "等级≥ 45 野兽经验≥ 4120 巨龙经验≥ 5500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "多路兽",
+      "to": "银龙兽",
+      "condition": "等级≥ 26 巨龙经验≥ 1250 近防训练≥ 95",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "银龙兽",
+      "to": "飞车龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5000 近防训练≥ 250",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "流光兽",
+      "to": "杜宾犬兽",
+      "condition": "等级≥ 17 黑暗经验≥ 520",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "杜宾犬兽",
+      "to": "兽人加鲁鲁（黑）",
+      "condition": "等级≥ 45 野兽经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "管狐兽（黄）",
+      "to": "啄木鸟兽",
+      "condition": "等级≥ 26 鸟类经验≥ 890",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "啄木鸟兽",
+      "to": "八咫乌兽",
+      "condition": "等级≥ 45 鸟类经验≥ 5700",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加布兽",
+      "to": "比多兽",
+      "condition": "等级≥ 22 友情≤ 2.5♥ 昆虫经验≥ 1000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "比多兽",
+      "to": "超比多兽（蓝）",
+      "condition": "等级≥ 45 昆虫经验≥ 5100",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "比丘兽",
+      "to": "锹形虫兽",
+      "condition": "等级≥ 24 友情≤ 1.5♥ 昆虫经验≥ 720 胜率≥ 30%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "锹形虫兽",
+      "to": "大锹形虫兽",
+      "condition": "等级≥ 45 昆虫经验≥ 5230",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加布兽（黑）",
+      "to": "狙击兽",
+      "condition": "等级≥ 23 昆虫经验≥ 900",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "狙击兽",
+      "to": "大锹形虫兽",
+      "condition": "等级≥ 45 昆虫经验≥ 5230",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "冰石兽",
+      "to": "陨石兽",
+      "condition": "等级≥ 45 机械经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "流光兽",
+      "to": "强袭龙兽",
+      "condition": "等级≥ 24 巨龙经验≥ 690 胜率≥ 50%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "强袭龙兽",
+      "to": "电子龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 4500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "战甲兽",
+      "condition": "等级≥ 22 巨龙经验≥ 340 机械经验≥ 200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "战甲兽",
+      "to": "三角龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5000 胜率≥ 75%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "大耳兽",
+      "to": "海狮兽",
+      "condition": "等级≥ 20 水生经验≥ 690",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "海狮兽",
+      "to": "祖顿兽",
+      "condition": "等级≥ 45 水生经验≥ 5160",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "企鹅兽",
+      "to": "墨鱼兽",
+      "condition": "等级≥ 18 水生经验≥ 430 黑暗经验≥ 230",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "墨鱼兽",
+      "to": "恶海龙兽",
+      "condition": "等级≥ 45 水生经验≥ 3200 黑暗经验≥ 2250",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "砗磲兽",
+      "to": "怪蛙兽",
+      "condition": "等级≥ 18 水生经验≥ 320 友情≥ 4♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "怪蛙兽",
+      "to": "老爷怪蛙兽",
+      "condition": "等级≥ 48 水生经验≥ 6200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "亚古兽（黑）",
+      "to": "古拉兽",
+      "condition": "等级≥ 16 巨龙经验≥ 612 胜率≥ 75%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "古拉兽",
+      "to": "大古拉兽",
+      "condition": "等级≥ 45 巨龙经验≥ 1500 机械经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "小恶魔兽",
+      "to": "黑古拉兽",
+      "condition": "等级≥ 22 巨龙经验≥ 500 黑暗经验≥ 315",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "黑古拉兽",
+      "to": "黑大古拉兽",
+      "condition": "等级≥ 45 巨龙经验≥ 1500 机械经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "积木亚古兽",
+      "to": "古拉兽（橙）",
+      "condition": "等级≥ 20 巨龙经验≥ 450 胜率≥ 75%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "古拉兽（橙）",
+      "to": "大古拉兽（橙）",
+      "condition": "等级≥ 45 巨龙经验≥ 1500 机械经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "小妖兽",
+      "to": "朋克兽",
+      "condition": "等级≥ 15 巨龙经验≥ 350 黑暗经验≥ 120 拥有过嘿嘿兽",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "朋克兽",
+      "to": "躁响兽",
+      "condition": "等级≥ 45 巨龙经验≥ 2000 机械经验≥ 5000 黑暗经验≥ 1500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "黄蜂兽",
+      "to": "大锹形虫兽",
+      "condition": "等级≥ 45 昆虫经验≥ 5230",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "比丘兽",
+      "to": "仙人掌兽",
+      "condition": "等级≥ 25 植物经验≥ 660 胜率≥ 60%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "仙人掌兽",
+      "to": "花仙兽",
+      "condition": "等级≥ 45 植物经验≥ 3990 友情≥ 4.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "甲虫兽",
+      "to": "枯木兽",
+      "condition": "等级≥ 20 植物经验≥ 600",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "枯木兽",
+      "to": "祖利兽",
+      "condition": "等级≥ 45 植物经验≥ 5230",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "电力兽",
+      "to": "野菜兽",
+      "condition": "等级≥ 18 植物经验≥ 380",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "野菜兽",
+      "to": "超比多兽（蓝）",
+      "condition": "等级≥ 45 昆虫经验≥ 6500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "小狗兽",
+      "to": "刃王哈克兽",
+      "condition": "等级≥ 30 巨龙经验≥ 450 神圣经验≥ 725 胜率≥ 80%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "刃王哈克兽",
+      "to": "救世主哈克兽",
+      "condition": "等级≥ 45 巨龙经验≥ 6750 胜率≥ 80%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "冠恐鸟兽",
+      "condition": "等级≥ 22 鸟类经验≥ 678 近攻训练≥ 100",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "冠恐鸟兽",
+      "to": "迦楼罗兽",
+      "condition": "等级≥ 45 鸟类经验≥ 2980",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "亚古兽（黑）",
+      "to": "铁钩兽",
+      "condition": "等级≥ 21 水生经验≥ 512 胜率≥ 50%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "铁钩兽",
+      "to": "铁钩船长兽",
+      "condition": "等级≥ 45 水生经验≥ 5950 胜率≥ 40%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "甲虫兽",
+      "to": "向日葵兽",
+      "condition": "等级≥ 23 植物经验≥ 795 友情≥ 2.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "向日葵兽",
+      "to": "丁香兽",
+      "condition": "等级≥ 45 植物经验≥ 4895 友情≥ 2.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "V仔兽",
+      "to": "牛人兽",
+      "condition": "等级≥ 20 野兽经验≥ 650 黑暗经验≥ 430 胜率≥ 80%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "牛人兽",
+      "to": "猿猴兽",
+      "condition": "等级≥ 45 野兽经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "古尼兽",
+      "to": "蜻蜓兽",
+      "condition": "等级≥ 17 昆虫经验≥ 340 友情≥ 2♥ & 友情≤ 3♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "蜻蜓兽",
+      "to": "南瓜兽",
+      "condition": "等级≥ 45 黑暗经验≥ 4500 植物经验≥ 1200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "贝塔兽",
+      "to": "沙地蜻蜓兽",
+      "condition": "等级≥ 22 拥有过蜻蜓兽 昆虫经验≥ 592",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "沙地蜻蜓兽",
+      "to": "奇虾兽",
+      "condition": "等级≥ 45 水生经验≥ 5230 友情≤ 1.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "哥玛兽",
+      "to": "虾龙兽",
+      "condition": "等级≥ 20 水生经验≥ 500 机械经验≥ 125",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "虾龙兽",
+      "to": "百万海龙兽",
+      "condition": "等级≥ 45 水生经验≥ 5200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "齿轮兽",
+      "to": "音速兽",
+      "condition": "等级≥ 16 机械经验≥ 1995",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "音速兽",
+      "to": "电子龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5000 黑暗经验≤ 1500 胜率≥ 60%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "哥布林兽",
+      "to": "武士兽",
+      "condition": "等级≥ 19 黑暗经验≥ 560 胜率≥ 90%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "武士兽",
+      "to": "阿修罗兽",
+      "condition": "等级≥ 45 神圣经验≥ 10000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "雪人亚古兽",
+      "to": "甲板龙兽",
+      "condition": "等级≥ 20 巨龙经验≥ 500 机械经验≥ 1230",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "甲板龙兽",
+      "to": "地龙兽",
+      "condition": "等级≥ 45 友情≤ 1♥ 胜率≥ 75% 机械经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "比丘兽",
+      "to": "铠甲鸟龙兽",
+      "condition": "等级≥ 20 鸟类经验≥ 320 近防训练≥ 100 机械经验≥ 1000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "铠甲鸟龙兽",
+      "to": "翔龙兽",
+      "condition": "等级≥ 45 友情≥ 3♥ 胜率≥ 75%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "多路兽",
+      "to": "胡蜂兽",
+      "condition": "等级≥ 24 昆虫经验≥ 450 机械经验≥ 650 胜率≥ 40%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "胡蜂兽",
+      "to": "炮蜂兽",
+      "condition": "等级≥ 45 昆虫经验≥ 2600 机械经验≥ 4120",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "单角龙兽",
+      "to": "龙人兽",
+      "condition": "等级≥ 16 巨龙经验≥ 300",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "龙人兽",
+      "to": "电子龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 4500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "巫师兽",
+      "condition": "等级≥ 18 友情≥ 2.5♥ 黑暗经验≥ 650",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巫师兽",
+      "to": "贤者兽",
+      "condition": "等级≥ 45 黑暗经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "阿耆尼兽",
+      "to": "布利陀罗兽",
+      "condition": "等级≥ 55 友情≥ 4♥ 巨龙经验≥ 9150 1个进化器",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "野狼兽",
+      "to": "加鲁姆兽",
+      "condition": "等级≥ 55 友情≥ 4♥ 野兽经验≥ 9150 1个进化器",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "仙女兽",
+      "to": "舒兹兽",
+      "condition": "等级≥ 55 友情≥ 4♥ 鸟类经验≥ 9150 1个进化器",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "企鹅兽",
+      "to": "冰熊兽",
+      "condition": "等级≥ 30 完成挑战模式：第一边疆 水生经验≥ 2600",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "冰熊兽",
+      "to": "巴萨兽",
+      "condition": "等级≥ 55 友情≥ 4♥ 水生经验≥ 9150 1个进化器",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "齿轮兽",
+      "to": "电光兽",
+      "condition": "等级≥ 30 通关”第一边疆“ 昆虫经验≥ 2600",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "电光兽",
+      "to": "雷光兽",
+      "condition": "等级≥ 55 友情≥ 4♥ 昆虫经验≥ 9150 1个进化器",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "砗磲兽",
+      "to": "拉娜兽",
+      "condition": "等级≥ 30 完成挑战模式：第一边疆 水生经验≥ 2600",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "拉娜兽",
+      "to": "人鱼兽",
+      "condition": "等级≥ 45 水生经验≥ 5525 近攻训练≥ 280",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加支兽",
+      "to": "幽暗兽",
+      "condition": "等级≥ 30 完成挑战模式：第一边疆 黑暗经验≥ 2600",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "幽暗兽",
+      "to": "地狱使者兽",
+      "condition": "等级≥ 45 黑暗经验≥ 6404 友情≤ 1♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "钻头鼹鼠兽",
+      "condition": "等级≥ 16 野兽经验≥ 600 友情≥ 4♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "钻头鼹鼠兽",
+      "to": "熊猫兽",
+      "condition": "等级≥ 45 野兽经验≥ 5600 友情≥ 1♥ & 友情≤ 2♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加布兽",
+      "to": "伪钻头鼹鼠兽",
+      "condition": "等级≥ 16 野兽经验≥ 600 友情≤ 3♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "伪钻头鼹鼠兽",
+      "to": "数码蛋兽",
+      "condition": "等级≥ 45 黑暗经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "小妖兽",
+      "to": "蟑螂兽",
+      "condition": "等级≥ 15 胜率≤ 30%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "蟑螂兽",
+      "to": "超比多兽（蓝）",
+      "condition": "等级≥ 45 昆虫经验≥ 6500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "积木亚古兽",
+      "to": "傻狗兽",
+      "condition": "等级≥ 16 胜率≤ 30% 野兽经验≥ 545",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "傻狗兽",
+      "to": "冒充兽",
+      "condition": "等级≥ 45 野兽经验≥ 5525",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "黑大耳兽",
+      "to": "彼得兽",
+      "condition": "等级≥ 22 友情≥ 4.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "彼得兽",
+      "to": "丁香兽",
+      "condition": "等级≥ 45 植物经验≥ 6250 友情≥ 2.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加支兽",
+      "to": "德尔塔兽",
+      "condition": "等级≥ 22 巨龙经验≥ 963 近攻训练≥ 150 胜率≥ 60%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "德尔塔兽",
+      "to": "百万龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 4500 黑暗经验≥ 404",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加支兽",
+      "to": "獠牙兽",
+      "condition": "等级≥ 15 黑暗经验≥ 1500 友情≤ .5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "獠牙兽",
+      "to": "兽人加鲁鲁",
+      "condition": "等级≥ 45 野兽经验≥ 5500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "单角龙兽",
+      "to": "厄俄斯兽",
+      "condition": "等级≥ 25 机械经验≥ 1200 昆虫经验≥ 520 拥有过闪蝶兽",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "厄俄斯兽",
+      "to": "厄俄斯兽",
+      "condition": "等级≥ 45 友情≤ .5♥ 昆虫经验≥ 4590 机械经验≥7950",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "雪人亚古兽",
+      "to": "苍龙兽",
+      "condition": "等级≥ 15 水生经验≥ 650 胜率≥ 40% 拥有苍龙兽",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "苍龙兽",
+      "to": "冰晶苍龙兽",
+      "condition": "等级≥ 45 水生经验≥ 5000 友情≥ 3♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "电力兽",
+      "to": "埃癸奥兽",
+      "condition": "等级≥ 30 友情≥4♥ 胜率≥ 80% 神圣经验≥1200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "埃癸奥兽",
+      "to": "埃癸奥都斯兽",
+      "condition": "等级≥ 45 友情≥4.5♥ 巨龙经验≥ 8500 神圣经验≥3500",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "黑大耳兽",
+      "to": "不行兽",
+      "condition": "等级≥ 15 胜率 ≤ 30%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "不行兽",
+      "to": "冒充兽",
+      "condition": "等级≥ 45 野兽经验≥ 5525",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "高吼兽（王）",
+      "to": "奥米加高吼兽",
+      "condition": "等级≥ 55 神圣经验≥ 45000 胜率≥ 90% 2个进化器",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "齿轮兽",
+      "to": "弩炮兽",
+      "condition": "等级≥ 18 机械经验≥ 610 昆虫经验≥ 120",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "弩炮兽",
+      "to": "炮蜂兽",
+      "condition": "等级≥ 46 昆虫经验≥ 3600 机械经验≥ 4120",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "高吼兽",
+      "to": "高吼兽X2",
+      "condition": "& 弩炮兽 合体进化：1个数码组合芯片 等级≥ 18 友情≥ 4.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "小妖兽",
+      "to": "兵卒兽",
+      "condition": "等级≥ 20 机械经验≥ 1000 黑暗经验≥ 230 友情≤ .5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "兵卒兽",
+      "to": "贤者兽",
+      "condition": "等级≥ 45 黑暗经验≥ 5000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "加支兽",
+      "to": "哈努兽",
+      "condition": "等级≥ 18 野兽经验≥ 520 神圣经验≥ 150",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "哈努兽",
+      "to": "祭师兽",
+      "condition": "等级≥ 45 神圣经验≥ 4900",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "参宿四伽马兽",
+      "to": "卡诺维斯兽",
+      "condition": "等级≥ 45 友情≥ 4.5♥ 巨龙经验≥ 10000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "伽马兽",
+      "to": "弧矢一伽马兽",
+      "condition": "等级≥ 16 友情≥ 3♥ 机械经验≥ 700",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "弧矢一伽马兽",
+      "to": "卡诺维斯兽",
+      "condition": "等级≥ 45 友情≥ 4.5♥ 巨龙经验≥ 10000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "伽马兽",
+      "to": "箕宿三伽马兽",
+      "condition": "等级≥ 16 友情≥ 3♥ 鸟类经验≥ 700",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "箕宿三伽马兽",
+      "to": "卡诺维斯兽",
+      "condition": "等级≥ 45 友情≥ 4.5♥ 巨龙经验≥ 10000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "伽马兽",
+      "to": "轩辕十四伽马兽",
+      "condition": "等级≥ 16 友情≤ 3♥ 黑暗经验≥ 700",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "轩辕十四伽马兽",
+      "to": "轩辕十四兽",
+      "condition": "等级≥ 45 友情≤ 1♥ 黑暗经验≥ 10000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "大耳兽",
+      "to": "女巫兽",
+      "condition": "等级≥ 20 友情≥ 2.5♥ 黑暗经验≥ 550 水生经验≥ 200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "女巫兽",
+      "to": "天女兽",
+      "condition": "等级≥ 45 黑暗经验≥ 4500 友情≥ 4.5♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "积木亚古兽",
+      "to": "魔像兽PS",
+      "condition": "等级≥ 18 成就数≥ 30 机械经验≥ 2000",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "魔像兽PS",
+      "to": "豆豆兽",
+      "condition": "等级≥ 45 机械经验≥ 5200",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "无赖兽",
+      "to": "武天兽",
+      "condition": "等级≥ 45 友情≥ 3♥ 鸟类经验≥ 7500 近攻训练值≥ 400",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "高等突击龙兽",
+      "to": "大蛇兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5800 胜率≥ 60%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "突击龙兽",
+      "to": "海豹龙兽",
+      "condition": "等级≥ 16 友情≤ 1♥ 机械经验≥ 325 胜率≥ 60%",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "海豹龙兽",
+      "to": "装载狮子兽",
+      "condition": "等级≥ 48 野兽经验≥ 7500 机械经验≥ 2820 近防训练值≥ 300",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "针毛兽",
+      "to": "巨硬针毛兽",
+      "condition": "等级≥ 45 野兽经验≥ 4500 胜率≥ 85% 友情≥ 4♥",
+      "sheet": "成熟期进化路线"
+    },
+    {
+      "from": "机械暴龙兽",
+      "to": "战斗暴龙兽",
+      "condition": "等级≥ 75 巨龙经验≥ 25000 胜率≥ 85% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "暴龙兽",
+      "to": "机械暴龙兽（病毒）",
+      "condition": "等级≥ 52 携带黑数码核心数据 巨龙经验≥ 7100",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "机械暴龙兽（病毒）",
+      "to": "黑战斗暴龙兽",
+      "condition": "等级≥ 75 黑暗经验≥ 25000 胜率≥ 85% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "跃升暴龙兽",
+      "to": "闪光暴龙兽",
+      "condition": "等级≥ 75 巨龙经验≥ 25000 神圣经验≥ 15600 3个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "暴龙兽（合体战争）",
+      "to": "机械暴龙兽（合体战争）",
+      "condition": "& 铠甲鸟龙兽 合体进化：1个数码合体芯片 等级≥ 45",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "机械暴龙兽（合体战争）",
+      "to": "无限龙兽",
+      "condition": "等级≥ 75 机械经验≥ 29150 黑暗经验≥ 10000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "暴龙兽",
+      "to": "骷髅暴龙兽",
+      "condition": "等级≥ 46 友情≤ 1♥ 黑暗经验≥ 5000 胜率≤ 30%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "骷髅暴龙兽",
+      "to": "黑战斗暴龙兽",
+      "condition": "等级≥ 75 黑暗经验≥ 25000 胜率≥ 85% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "暴龙兽",
+      "to": "金属巨龙兽",
+      "condition": "等级≥ 49 巨龙经验≥ 1955 机械经验≥ 6810",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "金属巨龙兽",
+      "to": "红锈巨龙兽",
+      "condition": "等级≥ 75 机械经验≥ 34000 巨龙经验≥ 19000 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "大师巨龙兽",
+      "to": "戴拿兽",
+      "condition": "等级≥ 75 击杀数≥ 7000 巨龙经验≥ 65000 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "大便兽",
+      "to": "超级明星兽",
+      "condition": "等级≥ 51 机械经验≥ 6000 胜率≥ 35%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "超级明星兽",
+      "to": "正义兽",
+      "condition": "等级≥ 75 黑暗经验≤ 8000 胜率≥ 95% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "火焰兽",
+      "to": "黑暗巨星兽",
+      "condition": "等级≥ 52 机械经验≥ 3500 黑暗经验≥ 6100",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "黑暗巨星兽",
+      "to": "暗龙兽",
+      "condition": "等级≥ 75 黑暗经验≥ 25800 机械经验≥ 25410 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "飞龙兽",
+      "to": "百万海龙兽",
+      "condition": "等级≥ 51 水生经验≥ 6120 友情≥ 1.5♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "百万海龙兽",
+      "to": "金属海龙兽",
+      "condition": "等级≥ 75 水生经验≥ 32000 机械经验≥ 18000 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "加鲁鲁兽",
+      "to": "恶海龙兽",
+      "condition": "等级≥ 50 水生经验≥ 5200 黑暗经验≥ 2250",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "恶海龙兽",
+      "to": "利维亚兽",
+      "condition": "等级≥ 75 水生经验≥ 35000 黑暗经验≥ 29000 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "祖顿兽",
+      "to": "蛇颈龙兽",
+      "condition": "等级≥ 75 水生经验≥ 29000 友情≥ 5♥ 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "海龙兽",
+      "to": "巨鲸兽",
+      "condition": "等级≥ 47 水生经验≥ 6150 友情≥ 3.5♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "巨鲸兽",
+      "to": "尼普顿兽",
+      "condition": "等级≥ 75 水生经验≥ 35000 胜率≥ 80% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "角龙兽",
+      "to": "三角龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5000",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "三角龙兽",
+      "to": "炮龙兽",
+      "condition": "等级≥ 75 巨龙经验≥ 25600 机械经验≥ 32000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "V仔兽EX",
+      "to": "神圣天使兽",
+      "condition": "等级≥ 65 神圣经验≥ 6800 黑暗经验≤ 100 友情≥ 4♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "神圣天使兽",
+      "to": "炽天使兽",
+      "condition": "等级≥ 75 神圣经验≥ 27000 黑暗经验≤ 8000 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "雪人兽",
+      "to": "天女兽",
+      "condition": "等级≥ 55 神圣经验≥ 7250 友情≥ 4.5♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "天女兽",
+      "to": "座天使兽",
+      "condition": "等级≥ 75 神圣经验≥ 27000 黑暗经验≤ 8000 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "鬼怪兽",
+      "to": "女恶魔兽",
+      "condition": "等级≥ 52 黑暗经验≥ 7260 友情≥ 4.5♥ 胜率≥ 85%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "女恶魔兽",
+      "to": "莉莉丝兽",
+      "condition": "等级≥ 75 黑暗经验≥ 26969 胜率≥ 69% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "幻影兽",
+      "to": "小丑兽",
+      "condition": "等级≥ 75 黑暗经验≥ 33500 胜率≥ 80% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "骷髅撒旦兽",
+      "to": "魔神兽",
+      "condition": "等级≥ 75 友情≤ .5♥ 黑暗经验≥ 66600 3个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "冰恶魔兽",
+      "to": "祖利兽",
+      "condition": "等级≥ 58 植物经验≥ 8650 黑暗经验≥ 210 友情≤ 4♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "祖利兽",
+      "to": "木偶兽",
+      "condition": "等级≥ 75 植物经验≥ 29650 黑暗经验≥ 15800 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "明星兽",
+      "to": "数码蛋兽",
+      "condition": "等级≥ 48 黑暗经验≥ 4800",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "数码蛋兽",
+      "to": "恶魔蛋兽",
+      "condition": "等级≥ 75 黑暗经验≥ 35000 友情≤ .5♥ 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "巨龙兽",
+      "to": "大古拉兽",
+      "condition": "等级≥ 49 巨龙经验≥ 3210 机械经验≥ 5300",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "大古拉兽",
+      "to": "红莲骑士兽",
+      "condition": "等级≥ 75 神圣经验≥ 29000 胜率≥ 85% 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "大古拉兽",
+      "to": "黑大古拉兽",
+      "condition": "携带黑数码核心数据",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "黑大古拉兽",
+      "to": "混沌骑士兽",
+      "condition": "等级≥ 75 黑暗经验≥ 29000 胜率≥ 85% 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "暴龙兽",
+      "to": "大古拉兽（橙）",
+      "condition": "等级≥ 49 巨龙经验≥ 1500 机械经验≥ 7150",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "大古拉兽（橙）",
+      "to": "红莲骑士兽",
+      "condition": "等级≥ 75 神圣经验≥ 29000 胜率≥ 85% 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "躁响兽",
+      "to": "重金属龙兽",
+      "condition": "等级≥ 75 击杀数≥ 3000 黑暗经验≥ 32500 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "巨龙兽",
+      "to": "朱红兽",
+      "condition": "等级≥ 48 巨龙经验≥ 5200",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "朱红兽",
+      "to": "炮龙兽",
+      "condition": "等级≥ 75 巨龙经验≥ 25600 机械经验≥ 32000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "蓝色火焰兽",
+      "to": "螺栓兽",
+      "condition": "等级≥ 75 黑暗经验≥ 35000 胜率≤ 30% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "V龙兽",
+      "to": "电子龙兽",
+      "condition": "等级≥ 50 巨龙经验≥ 5000 黑暗经验≤ 1500 胜率≥ 60%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "电子龙兽",
+      "to": "正义兽",
+      "condition": "等级≥ 75 黑暗经验≤ 8000 胜率≥ 95% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "裂破兽",
+      "to": "华丽兽",
+      "condition": "等级≥ 65 鸟类经验≥ 5500 植物经验≥ 4500",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "华丽兽",
+      "to": "凤凰兽",
+      "condition": "等级≥ 75 鸟类经验≥ 31500 神圣经验≥ 15000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "火焰兽",
+      "to": "迦楼罗兽",
+      "condition": "等级≥ 59 鸟类经验≥ 6150",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "迦楼罗兽",
+      "to": "凤凰兽",
+      "condition": "等级≥ 75 鸟类经验≥ 31500 神圣经验≥ 15000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "天翔V龙兽",
+      "to": "究极V龙兽",
+      "condition": "等级≥ 75 神圣经验≥ 32650 巨龙经验≥ 15900 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "角龙兽",
+      "to": "百万龙兽",
+      "condition": "等级≥ 50 巨龙经验≥ 4500 黑暗经验≥ 404",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "百万龙兽",
+      "to": "无限龙兽",
+      "condition": "等级≥ 75 机械经验≥ 29150 黑暗经验≥ 10000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "大地暴龙兽",
+      "to": "翔龙兽",
+      "condition": "等级≥ 50 友情≥ 4♥ 巨龙经验≥ 7200 胜率≥ 75%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "翔龙兽",
+      "to": "斩龙兽",
+      "condition": "等级≥ 75 巨龙经验≥ 35000 胜率≥ 98% 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "火焰兽",
+      "to": "地龙兽",
+      "condition": "等级≥ 50 友情≤ 1♥ 巨龙经验≥ 7200 胜率≥ 75%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "地龙兽",
+      "to": "破坏龙兽",
+      "condition": "等级≥ 75 机械经验≥ 25840 巨龙经验≥ 15780 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "贤者兽",
+      "to": "贝尔菲兽：沉睡形态",
+      "condition": "等级≥ 75 黑暗经验≥ 36000 野兽经验≥ 12500 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "加鲁鲁兽",
+      "to": "多路暴龙兽",
+      "condition": "等级≥ 62 野兽经验≥ 6120 巨龙经验≥ 7500",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "多路暴龙兽",
+      "to": "阿尔法兽",
+      "condition": "等级≥ 75 神圣经验≥ 29000 胜率≥ 95% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "海龙兽",
+      "to": "飞车龙兽",
+      "condition": "等级≥ 65 巨龙经验≥ 6750 近防训练≥ 360",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "飞车龙兽",
+      "to": "王龙兽",
+      "condition": "等级≥ 75 巨龙经验≥ 59000 近防训练≥ 400 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "迪路兽",
+      "to": "兽人加鲁鲁",
+      "condition": "等级≥ 61 野兽经验≥ 7500",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "兽人加鲁鲁",
+      "to": "钢铁加鲁鲁兽",
+      "condition": "等级≥ 75 机械经验≥ 45000 友情≥ 4.5♥ 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "奥加兽",
+      "to": "兽人加鲁鲁（黑）",
+      "condition": "等级≥ 48 野兽经验≥ 5200 黑暗经验≥ 4000",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "兽人加鲁鲁（黑）",
+      "to": "钢铁加鲁鲁兽（黑）",
+      "condition": "等级≥ 75 水生经验≥ 27000 机械经验≥ 27000 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "裂破兽",
+      "to": "音速加奥加兽",
+      "condition": "等级≥ 50 野兽经验≥ 5500 胜率≥ 60%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "音速加奥加兽",
+      "to": "幻影加奥加兽",
+      "condition": "等级≥ 75 野兽经验≥ 31550 友情≥ 4♥ 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "拉比兽",
+      "to": "圣加鲁哥兽",
+      "condition": "等级≥ 75 机械经验≥ 32100 野兽经验≥ 19200 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "加鲁鲁兽（黑）",
+      "to": "黑疾速兽",
+      "condition": "等级≥ 47 机械经验≥ 4500 野兽经验≥ 7520",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "黑疾速兽",
+      "to": "黑圣加鲁哥兽",
+      "condition": "等级≥ 75 机械经验≥ 32100 黑暗经验≥ 19200 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "加鲁哥兽",
+      "to": "安底罗兽（神将）",
+      "condition": "等级≥ 49 野兽经验≥ 5120 神圣经验≥ 3150 友情≥ 2♥ & 友情≤ 4♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "安底罗兽（神将）",
+      "to": "智天使兽（善）",
+      "condition": "等级≥ 75 神圣经验≥ 28000 野兽经验≥ 28000 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "加鲁哥兽",
+      "to": "安底罗兽",
+      "condition": "等级≥ 49 野兽经验≥ 5120 黑暗经验≥ 3150 友情≥ 2♥ & 友情≤ 4♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "安底罗兽",
+      "to": "智天使兽（恶）",
+      "condition": "等级≥ 75 黑暗经验≥ 28000 野兽经验≥ 28000 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "天使兽",
+      "to": "祭师兽",
+      "condition": "等级≥ 48 野兽经验≥ 5950 神圣经验≥ 2650",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "祭师兽",
+      "to": "咲耶兽",
+      "condition": "等级≥ 75 神圣经验≥ 32500 野兽经验≥ 29000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "迪路兽",
+      "to": "花仙兽",
+      "condition": "等级≥ 48 植物经验≥ 6780 友情≥ 3♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "花仙兽",
+      "to": "蔷薇兽",
+      "condition": "等级≥ 75 植物经验≥ 25000 胜率≥ 65% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "恶魔兽",
+      "to": "地狱使者兽",
+      "condition": "等级≥ 65 黑暗经验≥ 7404 友情≤ 1♥ 胜率≥ 65%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "地狱使者兽",
+      "to": "迪亚波罗兽",
+      "condition": "等级≥ 75 击杀数≥ 6000 黑暗经验≥ 38000 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "红色V龙兽",
+      "to": "超比多兽（红）",
+      "condition": "等级≥ 56 昆虫经验≥ 5690",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "超比多兽（红）",
+      "to": "力神比多兽",
+      "condition": "等级≥ 75 昆虫经验≥ 31000 友情≥ 4.5♥ 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "虫蛹兽",
+      "to": "超比多兽（蓝）",
+      "condition": "等级≥ 55 昆虫经验≥ 5100",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "超比多兽（蓝）",
+      "to": "力神比多兽",
+      "condition": "等级≥ 75 昆虫经验≥ 31000 友情≥ 4.5♥ 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "大锹形虫兽",
+      "to": "究极古加兽",
+      "condition": "等级≥ 75 昆虫经验≥ 28000 胜率≥ 85% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "火焰兽",
+      "to": "吸血魔兽",
+      "condition": "等级≥ 49 黑暗经验≥ 5000 胜率≥ 85%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "吸血魔兽",
+      "to": "怨毒吸血魔兽",
+      "condition": "等级≥ 75 黑暗经验≥ 42000 友情≥ .5♥ & 友情≤ 1♥ 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "海龙兽",
+      "to": "奇虾兽",
+      "condition": "等级≥ 50 水生经验≥ 5230 友情≤ 1.5♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "奇虾兽",
+      "to": "河豚兽",
+      "condition": "等级≥ 75 水生经验≥ 39000 胜率≥ 95% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "白狮兽",
+      "to": "剑狮兽",
+      "condition": "等级≥ 75 野兽经验≥ 29500 友情≥ 4.5♥ 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "狮子兽",
+      "to": "装载狮子兽",
+      "condition": "等级≥ 50 野兽经验≥ 2500 机械经验≥ 7520 近防训练值≥ 300",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "装载狮子兽",
+      "to": "重装狮子兽",
+      "condition": "等级≥ 75 机械经验≥ 53000 近防训练值≥ 450 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "明星兽",
+      "to": "陨石兽",
+      "condition": "等级≥ 50 机械经验≥ 5100",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "陨石兽",
+      "to": "金属猿猴兽",
+      "condition": "等级≥ 75 机械经验≥ 34000 胜率≥ 95% 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "巨龙兽",
+      "to": "EX巨龙兽",
+      "condition": "等级≥ 55 巨龙经验≥ 7250 友情≥ 4.5♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "EX巨龙兽",
+      "to": "红锈巨龙兽",
+      "condition": "等级≥ 75 胜率≥ 80% 机械经验≥ 40000 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "雪人兽",
+      "to": "熊仔兽",
+      "condition": "等级≥ 65 野兽经验≥ 7250 友情≥ 4.5♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "熊仔兽",
+      "to": "噩梦熊仔兽",
+      "condition": "等级≥ 75 击杀数≥ 7000 友情≥ 4.5♥ 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "鬼怪兽",
+      "to": "恶霸熊仔兽",
+      "condition": "等级≥ 45 野兽经验≥ 4855 黑暗经验≥ 5900",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "恶霸熊仔兽",
+      "to": "噩梦熊仔兽",
+      "condition": "等级≥ 75 击杀数≥ 7000 友情≥ 4.5♥ 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "雪人兽",
+      "to": "熊猫兽",
+      "condition": "等级≥ 60 野兽经验≥ 7550 友情≥ 1♥ & 友情≤ 2♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "熊猫兽",
+      "to": "正义兽",
+      "condition": "等级≥ 75 黑暗经验≤ 8000 胜率≥ 95% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "猿猴兽",
+      "to": "金属猿猴兽",
+      "condition": "等级≥ 75 机械经验≥ 34000 胜率≥ 95% 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "刃龙兽",
+      "to": "八咫乌兽",
+      "condition": "等级≥ 45 鸟类经验≥ 5700 黑暗经验≥ 3650",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "八咫乌兽",
+      "to": "渡鸦兽",
+      "condition": "等级≥ 75 鸟类经验≥ 33000 黑暗经验≥ 10000 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "老爷怪蛙兽",
+      "to": "河豚兽",
+      "condition": "等级≥ 75 水生经验≥ 39000 胜率≥ 95% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "鬼怪兽",
+      "to": "南瓜兽",
+      "condition": "等级≥ 45 黑暗经验≥ 3500 植物经验≥ 2200",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "南瓜兽",
+      "to": "高贵南瓜兽",
+      "condition": "等级≥ 75 成就≥ 80 友情≥ 2♥ & 友情≤ 4♥ 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "光明兽：堕落形态",
+      "to": "光明兽：撒旦形态",
+      "condition": "等级≥ 75 击杀数≥ 10000 黑暗经验≥ 36660 3个加速器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "V仔兽EX",
+      "to": "机甲龙兽",
+      "condition": "& 刺钉兽 合体进化：1个数码合体芯片 等级≥ 50",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "机甲龙兽",
+      "to": "帝皇龙兽：龙形态",
+      "condition": "等级≥ 75 巨龙经验≥ 41000 友情≥ 2♥ & 友情≤ 3♥ 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "荷鲁斯兽",
+      "to": "人面战鹰兽",
+      "condition": "等级≥ 60 鸟类经验≥ 8000 神圣经验≥ 9000 拥有过人面战鹰兽",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "人面战鹰兽",
+      "to": "瓦尔基里兽",
+      "condition": "等级≥ 75 鸟类经验≥ 41000 胜率≥ 99% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "天使兽",
+      "to": "土偶兽",
+      "condition": "& 战甲兽 合体进化：1个数码合体芯片 等级≥ 50",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "土偶兽",
+      "to": "维京兽",
+      "condition": "等级≥ 75 水生经验≥ 20000 防御训练值≥ 350 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "天使兽",
+      "to": "救世主哈克兽",
+      "condition": "等级≥ 59 巨龙经验≥ 6200 神圣经验≥ 7300 胜率≥ 80%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "救世主哈克兽",
+      "to": "杰斯兽",
+      "condition": "等级≥ 75 神圣经验≥ 57000 胜率≥ 98% 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "火焰兽",
+      "to": "豆豆兽",
+      "condition": "等级≥ 48 机械经验≥ 5200",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "豆豆兽",
+      "to": "正义兽",
+      "condition": "等级≥ 75 黑暗经验≤ 8000 胜率≥ 95% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "巨龙兽",
+      "to": "腕龙兽",
+      "condition": "等级≥ 58 巨龙经验≥ 2650 水生经验≥ 6190 胜率≥ 40%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "腕龙兽",
+      "to": "炮龙兽",
+      "condition": "等级≥ 75 巨龙经验≥ 25600 机械经验≥ 32000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "锹形虫兽",
+      "to": "炮蜂兽",
+      "condition": "等级≥ 46 昆虫经验≥ 3600 机械经验≥ 4120",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "炮蜂兽",
+      "to": "虎蜂兽",
+      "condition": "等级≥ 75 昆虫经验≥ 29000 胜率≥ 90% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "高吼兽",
+      "to": "奥米加高吼兽",
+      "condition": "等级≥ 70 神圣经验≥ 45000 胜率≥ 95% 6个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "奥米加高吼兽",
+      "to": "奥米加冒充兽",
+      "condition": "& 冒充兽 合体进化：1个数码组合芯片 等级≥ 85 机械经验≥ 71000",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "火焰兽",
+      "to": "阿修罗兽",
+      "condition": "等级≥ 50 神圣经验≥ 10000",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "阿修罗兽",
+      "to": "斩伐兽",
+      "condition": "等级≥ 75 黑暗经验≥ 51000 胜率≥ 60% 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "刃龙兽",
+      "to": "鹦鹉兽",
+      "condition": "等级≥ 48 鸟类经验≥ 7800 胜率≥ 40%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "鹦鹉兽",
+      "to": "凤凰兽",
+      "condition": "等级≥ 75 鸟类经验≥ 26500 神圣经验≥ 20000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "怪蛙兽",
+      "to": "铁钩船长兽",
+      "condition": "等级≥ 51 水生经验≥ 6950 胜率≥ 70%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "铁钩船长兽",
+      "to": "尼普顿兽",
+      "condition": "等级≥ 75 水生经验≥ 35000 胜率≥ 80% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "迪路兽",
+      "to": "丁香兽",
+      "condition": "等级≥ 46 植物经验≥ 7860 友情≥ 3♥",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "丁香兽",
+      "to": "蔷薇兽",
+      "condition": "等级≥ 75 植物经验≥ 25000 胜率≥ 65% 4个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "天使兽",
+      "to": "骏鹰兽",
+      "condition": "等级≥ 46 鸟类经验≥ 4920 野兽经验≥ 1895",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "骏鹰兽",
+      "to": "瓦尔德兽",
+      "condition": "等级≥ 75 鸟类经验≥ 25000 神圣经验≥ 40000 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "布利陀罗兽",
+      "to": "阿耆尼兽",
+      "condition": "等级≥ 40 携带模式选择器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "阿耆尼兽",
+      "to": "阿尔达兽",
+      "condition": "& 布利陀罗兽 合体进化：1个数码合体芯片 等级≥ 65",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "阿尔达兽",
+      "to": "凯撒暴龙兽",
+      "condition": "等级≥ 75 击杀数≥ 6000 巨龙经验≥ 39990 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "加鲁姆兽",
+      "to": "古代加鲁鲁兽",
+      "condition": "等级≥ 85 击杀数≥ 10000 野兽经验≥ 65000 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "舒兹兽",
+      "to": "古代彩虹兽",
+      "condition": "等级≥ 85 击杀数≥ 10000 鸟类经验≥ 65000 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "巴萨兽",
+      "to": "冰熊兽",
+      "condition": "等级≥ 40 携带模式选择器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "雷光兽",
+      "to": "电光兽",
+      "condition": "等级≥ 40 携带模式选择器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "鬼怪兽",
+      "to": "胧魂兽",
+      "condition": "等级≥ 48 黑暗经验≥ 7260 胜率≥ 96%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "胧魂兽",
+      "to": "斩伐兽",
+      "condition": "等级≥ 75 黑暗经验≥ 51000 胜率≥ 60% 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "迪路兽",
+      "to": "冒充兽",
+      "condition": "等级≥ 42 野兽经验≥ 3525 胜率≤ 30%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "冒充兽",
+      "to": "奥米加冒充兽",
+      "condition": "& 奥米加高吼兽 合体进化：1个数码组合芯片 等级≥ 85 机械经验≥ 71000",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "恶魔兽",
+      "to": "新种恶魔兽",
+      "condition": "等级≥ 45 黑暗经验≥ 7520 胜率≥ 60%",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "新种恶魔兽",
+      "to": "但丁恶魔兽",
+      "condition": "等级≥ 75 击杀数≥ 7000 黑暗经验≥ 65000 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "海狮兽",
+      "to": "人鱼兽",
+      "condition": "等级≥ 48 水生经验≥ 6500 近攻训练≥ 280",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "人鱼兽",
+      "to": "海天使兽",
+      "condition": "等级≥ 75 神圣经验≥ 35000 友情≥5♥ 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "厄俄斯兽",
+      "to": "厄俄斯兽",
+      "condition": "等级≥ 85 昆虫经验≥ 50000 机械经验≥ 32500 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "埃癸奥都斯兽",
+      "to": "朱庇特兽",
+      "condition": "等级≥ 75 神圣经验≥ 45000 胜率≥ 99% 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "冰河兽",
+      "to": "冰晶苍龙兽",
+      "condition": "等级≥ 56 水生经验≥ 7000 友情≥ 4♥ 拥有过冰晶苍龙兽",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "冰晶苍龙兽",
+      "to": "魔导碧晶兽",
+      "condition": "等级≥ 75 水生经验≥ 32000 胜率≥ 90% 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "大蛇兽",
+      "to": "尼德霍格兽",
+      "condition": "等级≥ 78 巨龙经验≥ 65800 击杀数≥ 8000 8个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "守卫机器人兽",
+      "to": "纳米兽",
+      "condition": "等级≥ 45 机械经验≥ 5200 黑暗经验≥ 404",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "纳米兽",
+      "to": "无限龙兽",
+      "condition": "等级≥ 75 机械经验≥ 29150 黑暗经验≥ 8000 5个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "卡诺维斯兽",
+      "to": "天狼星兽",
+      "condition": "等级≥ 75 巨龙经验≥ 35000 神圣经验≥ 80000 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "轩辕十四兽",
+      "to": "大角星兽",
+      "condition": "等级≥ 75 巨龙经验≥ 35000 黑暗经验≥ 80000 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "武天兽",
+      "to": "柯罗诺兽：神圣形态",
+      "condition": "等级≥ 90 完成挑战模式：时间大师 鸟类经验≥ 150000 10个加速器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "巨硬针毛兽",
+      "to": "螺旋兽",
+      "condition": "等级≥ 75 野兽经验≥ 95000 友情≥ 5♥ 7个进化器",
+      "sheet": "完全体进化路线"
+    },
+    {
+      "from": "战斗暴龙兽",
+      "to": "奥米加兽",
+      "condition": "& 钢铁加鲁鲁兽 合体进化：1个数码合体芯片 等级≥ 85 神圣经验≥ 90000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "黑战斗暴龙兽",
+      "to": "奥米加兽兹瓦特",
+      "condition": "& 钢铁加鲁鲁兽（黑） 合体进化：1个数码合体芯片 等级≥ 85 黑暗经验≥ 90000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "骷髅暴龙兽",
+      "to": "闪光暴龙兽",
+      "condition": "等级≥ 77 巨龙经验≥ 25000 神圣经验≥ 15600 3个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "闪光暴龙兽",
+      "to": "闪光暴龙兽：爆裂形态",
+      "condition": "等级≥ 85 巨龙经验≥ 55000 神圣经验≥ 37500 2个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "机械暴龙兽",
+      "to": "胜利暴龙兽",
+      "condition": "等级≥ 77 巨龙经验≥ 39000 胜率≥ 99% 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "机械暴龙兽（病毒）",
+      "to": "电光暴龙兽",
+      "condition": "等级≥ 75 巨龙经验≥ 15000 机械经验≥ 46500 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "电光暴龙兽",
+      "to": "奥米加兽 Alter-S",
+      "condition": "& 偃月加鲁鲁兽 合体进化：1个数码合体芯片 等级≥ 85 神圣经验≥ 90000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "机械暴龙兽",
+      "to": "无限龙兽",
+      "condition": "等级≥ 79 机械经验≥ 29150 黑暗经验≥ 10000 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "无限龙兽",
+      "to": "混沌龙兽",
+      "condition": "等级≥ 90 击杀数≥ 7000 4个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "机械暴龙兽",
+      "to": "红锈巨龙兽",
+      "condition": "等级≥ 82 机械经验≥ 34000 巨龙经验≥ 19000 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "骷髅暴龙兽",
+      "to": "颅骨兽",
+      "condition": "等级≥ 83 机械经验≥ 31000 胜率≥ 95% 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "机械暴龙兽",
+      "to": "红莲骑士兽",
+      "condition": "等级≥ 80 神圣经验≥ 29000 黑暗经验≤ 6000 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "大古拉兽",
+      "to": "混沌骑士兽",
+      "condition": "等级≥ 80 携带黑数码核心数据 黑暗经验≥ 29000 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "大古拉兽",
+      "to": "暗龙兽",
+      "condition": "等级≥ 78 黑暗经验≥ 29800 机械经验≥ 25410 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "猿猴兽",
+      "to": "圣加鲁哥兽",
+      "condition": "等级≥ 83 机械经验≥ 32100 野兽经验≥ 19200 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "圣加鲁哥兽",
+      "to": "黑圣加鲁哥兽",
+      "condition": "携带黑数码核心数据 1个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "猿猴兽",
+      "to": "小丑兽",
+      "condition": "等级≥ 77 黑暗经验≥ 33500 胜率≥ 80% 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "阿尔法兽",
+      "to": "阿尔法兽：王龙剑",
+      "condition": "& 王龙兽 合体进化：1个数码合体芯片 等级≥ 90 神圣经验≥ 100000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "王龙兽",
+      "to": "阿尔法兽：王龙剑",
+      "condition": "& 阿尔法兽 合体进化：1个数码合体芯片 等级≥ 90 神圣经验≥ 100000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "天女兽",
+      "to": "蔷薇兽",
+      "condition": "等级≥ 78 植物经验≥ 25000 胜率≥ 65% 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "蔷薇兽",
+      "to": "蔷薇兽：爆裂形态",
+      "condition": "等级≥ 85 植物经验≥ 55000 神圣经验≥ 37500 2个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "女恶魔兽",
+      "to": "莲花兽",
+      "condition": "等级≥ 79 植物经验≥ 32000 友情≥ 4♥ 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "莲花兽",
+      "to": "大王花兽",
+      "condition": "& 蔷薇兽 合体进化：1个数码合体芯片 等级≥ 80 植物经验≥ 75000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "蔷薇兽",
+      "to": "大王花兽",
+      "condition": "& 莲花兽 合体进化：1个数码合体芯片 等级≥ 80 植物经验≥ 75000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "跃升暴龙兽",
+      "to": "斩龙兽",
+      "condition": "等级≥ 80 巨龙经验≥ 35000 胜率≥ 98% 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "斩龙兽",
+      "to": "艾可萨兽",
+      "condition": "& 破坏龙兽 合体进化：1个数码合体芯片 等级≥ 95 巨龙经验≥ 150000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "多路暴龙兽",
+      "to": "破坏龙兽",
+      "condition": "等级≥ 81 机械经验≥ 25840 黑暗经验≥ 15780 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "破坏龙兽",
+      "to": "艾可萨兽",
+      "condition": "& 斩龙兽 合体进化：1个数码合体芯片 等级≥ 95 巨龙经验≥ 150000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "百万海龙兽",
+      "to": "千兆海龙兽",
+      "condition": "等级≥ 80 水生经验≥ 29500 机械经验≥ 65000 8个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "百万海龙兽",
+      "to": "尼普顿兽",
+      "condition": "等级≥ 78 水生经验≥ 35000 胜率≥ 80% 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "座天使兽",
+      "to": "座天使兽：堕落形态",
+      "condition": "等级≥ 85 黑暗经验≥ 66666 携带黑色齿轮 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "幻影兽",
+      "to": "怨毒吸血魔兽",
+      "condition": "等级≥ 79 黑暗经验≥ 42000 友情≥ .5♥ & 友情≤ 1♥ 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "怨毒吸血魔兽",
+      "to": "贝利亚吸血魔兽",
+      "condition": "等级≥ 90 击杀数≥ 8000 黑暗经验≥ 68000 2个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "咲耶兽",
+      "to": "咲耶兽：巫女模式",
+      "condition": "等级≥ 85 击杀数≥ 10000 神圣经验≥ 92000 5个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "女恶魔兽",
+      "to": "葛叶兽",
+      "condition": "等级≥ 85 神圣经验≥ 32500 友情≥ 1.5♥ & 友情≤ 3.5♥ 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "葛叶兽",
+      "to": "葛叶兽：巫女模式",
+      "condition": "等级≥ 85 击杀数≥ 10000 神圣经验≥ 92000 5个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "恶霸熊仔兽",
+      "to": "别西卜兽",
+      "condition": "等级≥ 77 黑暗经验≥ 33000 胜率≥ 80% 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "别西卜兽",
+      "to": "别西卜兽：疾风形态",
+      "condition": "等级≥ 85 击杀数≥ 10000 6个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "祖利兽",
+      "to": "究极古加兽",
+      "condition": "等级≥ 77 昆虫经验≥ 30000 胜率≥ 85% 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "百万海龙兽",
+      "to": "利维亚兽",
+      "condition": "等级≥ 80 水生经验≥ 35000 黑暗经验≥ 42000 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "恶霸熊仔兽",
+      "to": "木偶兽",
+      "condition": "等级≥ 80 植物经验≥ 35800 黑暗经验≥ 15800 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "女恶魔兽",
+      "to": "密涅瓦兽",
+      "condition": "等级≥ 80 友情≥ 3.5♥ 胜率≥ 97% 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "密涅瓦兽",
+      "to": "梅尔瓦兽",
+      "condition": "等级≥ 85 击杀数≥ 3000 神圣经验≥ 100000 5个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "祖顿兽",
+      "to": "螺栓兽",
+      "condition": "等级≥ 85 黑暗经验≥ 35000 胜率≤ 30%6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "蓝色火焰兽",
+      "to": "幻影加奥加兽",
+      "condition": "等级≥ 82 野兽经验≥ 31550 胜率≥ 75% 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "幻影加奥加兽",
+      "to": "幻影加奥加兽：爆裂形态",
+      "condition": "等级≥ 85 野兽经验≥ 55000 神圣经验≥ 37500 2个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "天女兽",
+      "to": "炽天使兽",
+      "condition": "等级≥ 81 神圣经验≥ 27000 黑暗经验≤ 8000 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "天翔V龙兽",
+      "to": "渡鸦兽",
+      "condition": "等级≥ 82 鸟类经验≥ 35000 黑暗经验≥ 12000 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "渡鸦兽",
+      "to": "渡鸦兽：爆裂形态",
+      "condition": "等级≥ 85 鸟类经验≥ 55000 神圣经验≥ 37500 2个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "大古拉兽",
+      "to": "领主骑士兽",
+      "condition": "等级≥ 79 神圣经验≥ 33500 机械经验≥ 25300 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "钢铁加鲁鲁兽",
+      "to": "奥米加兽",
+      "condition": "& 战斗暴龙兽 合体进化：1个数码合体芯片 等级≥ 85 神圣经验≥ 90000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "纳米兽",
+      "to": "钢铁加鲁鲁兽（黑）",
+      "condition": "等级≥ 78 水生经验≥ 30000 机械经验≥ 22000 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "钢铁加鲁鲁兽（黑）",
+      "to": "奥米加兽兹瓦特",
+      "condition": "& 黑战斗暴龙兽 合体进化：1个数码合体芯片 等级≥ 85 黑暗经验≥ 90000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "兽人加鲁鲁",
+      "to": "终弩加鲁鲁兽",
+      "condition": "等级≥ 78 野兽经验≥ 21550 机械经验≥ 45000 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "兽人加鲁鲁",
+      "to": "偃月加鲁鲁兽",
+      "condition": "等级≥ 79 野兽经验≥ 39950 水生经验≥ 38600 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "偃月加鲁鲁兽",
+      "to": "奥米加兽 Alter-S",
+      "condition": "& 电光暴龙兽 合体进化：1个数码合体芯片 等级≥ 85 神圣经验≥ 90000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "兽人加鲁鲁",
+      "to": "芳香兽",
+      "condition": "等级≥ 76 野兽经验≥ 32000 胜率≥ 90% 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "芳香兽",
+      "to": "芳香兽：豹式形态",
+      "condition": "等级≥ 80 携带模式选择器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "芳香兽：豹式形态",
+      "to": "芳香兽",
+      "condition": "等级≥ 80 携带模式选择器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "数码蛋兽",
+      "to": "贝尔菲兽：沉睡形态",
+      "condition": "等级≥ 82 黑暗经验≥ 36000 野兽经验≥ 12500 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "贝尔菲兽：沉睡形态",
+      "to": "贝尔菲兽：愤怒形态",
+      "condition": "等级≥ 85 击杀数≥ 9000 黑暗经验≥ 55000 3个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "神圣天使兽",
+      "to": "智天使兽（善）",
+      "condition": "等级≥ 79 神圣经验≥ 28000 野兽经验≥ 28000 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "幻影兽",
+      "to": "智天使兽（恶）",
+      "condition": "等级≥ 83 黑暗经验≥ 28000 野兽经验≥ 28000 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "女恶魔兽",
+      "to": "迪亚波罗兽",
+      "condition": "等级≥ 85 击杀数≥ 10000 黑暗经验≥ 38000 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "迪亚波罗兽",
+      "to": "灭世魔兽",
+      "condition": "等级≥ 95 击杀数 击杀数≥ 12000 5个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "狮子兽",
+      "to": "剑狮兽",
+      "condition": "等级≥ 65 野兽经验≥ 38500 友情≥ 5♥ 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "剑狮兽",
+      "to": "恐虎兽",
+      "condition": "等级≥ 90 击杀数 击杀数≥ 10000 5个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "迦楼罗兽",
+      "to": "瓦尔德兽",
+      "condition": "等级≥ 85 鸟类经验≥ 25000 神圣经验≥ 40000 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "百万海龙兽",
+      "to": "魔神兽",
+      "condition": "等级≥ 81 友情≤ .5♥ 黑暗经验≥ 66600 3个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "帝皇龙兽：龙形态",
+      "to": "帝皇龙兽：战士形态",
+      "condition": "等级≥ 80 携带模式选择器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "朱红兽",
+      "to": "帝皇龙兽：龙形态（黑）",
+      "condition": "& 三角龙兽 合体进化：1个数码合体芯片 等级≥ 78 巨龙经验≥ 44000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "天翔V龙兽",
+      "to": "杰斯兽",
+      "condition": "等级≥ 78 神圣经验≥ 67000 胜率≥ 98% 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "骷髅暴龙兽",
+      "to": "棘龙兽",
+      "condition": "等级≥ 78 巨龙经验≥ 53000 胜率≥ 75% 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "大古拉兽",
+      "to": "恐龙王兽",
+      "condition": "等级≥ 83 胜率≥ 80% 巨龙经验≥ 50000 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "大锹形虫兽",
+      "to": "虎蜂兽",
+      "condition": "等级≥ 78 昆虫经验≥ 31000 胜率≥ 98% 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "炮蜂兽",
+      "to": "女王蜂兽",
+      "condition": "等级≥ 80 拥有过虎蜂兽 击杀数≥ 6000 8个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "花仙兽",
+      "to": "番长百合兽",
+      "condition": "等级≥ 80 携带番长服 胜率≥ 99% 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "巨鲸兽",
+      "to": "海天使兽",
+      "condition": "等级≥ 77 神圣经验≥ 50000 友情≥ 5♥ 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "鼻涕兽",
+      "to": "白金鼻涕兽",
+      "condition": "等级≥ 55 神圣经验≥ 35000 Bits≥ 10000000 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "救世主哈克兽",
+      "to": "玛尔斯兽",
+      "condition": "等级≥ 80 野兽经验≥ 50000 胜率≥ 60% 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "天女兽",
+      "to": "维纳斯兽",
+      "condition": "等级≥ 80 神圣经验≥ 55000 友情≥ 5♥ 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "女恶魔兽",
+      "to": "贝尔斯塔兽",
+      "condition": "等级≥ 75 黑暗经验≥ 36500 拥有过别西卜兽 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "飞车龙兽",
+      "to": "斩伐兽",
+      "condition": "等级≥ 80 黑暗经验≥ 55000 胜率≥ 60% 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "骷髅暴龙兽",
+      "to": "策士兽",
+      "condition": "等级≥ 85 击杀数≥ 8000 胜率≥ 99% 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "祖顿兽",
+      "to": "维京兽",
+      "condition": "等级≥ 75 水生经验≥ 32500 防御训练值≥ 450 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "巨鲸兽",
+      "to": "蛇颈龙兽",
+      "condition": "等级≥ 83 水生经验≥ 32000 友情≥ 5♥ 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "电子龙兽",
+      "to": "风神兽",
+      "condition": "等级≥ 78 击杀数≥ 4000 机械经验≥ 45000 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "风神兽",
+      "to": "雷电兽",
+      "condition": "& 水神兽+雷神兽 合体进化：1个数码合体芯片 击杀数≥11000 机械经验≥ 70000 等级≥95",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "百万海龙兽",
+      "to": "水神兽",
+      "condition": "等级≥ 82 水生经验≥ 50000 机械经验≥ 39850 6个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "水神兽",
+      "to": "雷电兽",
+      "condition": "& 风神兽+雷神兽 合体进化：1个数码合体芯片 击杀数≥11000 机械经验≥ 70000 等级≥95",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "纳米兽",
+      "to": "雷神兽",
+      "condition": "等级≥ 80 机械经验≥ 35980 胜率≥ 80% 4个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "雷神兽",
+      "to": "雷电兽",
+      "condition": "& 风神兽+水神兽 合体进化：1个数码合体芯片 击杀数≥11000 机械经验≥ 70000 等级≥95",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "机械暴龙兽（病毒）",
+      "to": "铠皇兽",
+      "condition": "等级≥ 80 击杀数≥ 3000 胜率≥ 95% 5个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "铠皇兽",
+      "to": "铠皇兽：严刀之型",
+      "condition": "等级≥ 90 携带天燐严刀流 4个加速器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "恶霸熊仔兽",
+      "to": "阿努比兽",
+      "condition": "等级≥ 78 解锁：黑暗区域 神圣经验≥ 38000 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "骷髅暴龙兽",
+      "to": "泰坦兽",
+      "condition": "等级≥ 85 黑暗经验≥ 50000 击杀数≥ 9000 8个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "数码蛋兽",
+      "to": "普路托兽",
+      "condition": "等级≥ 80 黑暗经验≥ 55000 友情≤ .5♥ 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "天女兽",
+      "to": "莫斯提兽",
+      "condition": "& 女恶魔兽 合体进化：1个数码合体芯片 等级≥ 85 神圣经验≥82000 黑暗经验≥ 82000",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "花仙兽",
+      "to": "花开领主兽",
+      "condition": "等级≥ 78 植物经验≥ 35500 神圣经验≥ 45000 8个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "幻影兽",
+      "to": "高贵南瓜兽",
+      "condition": "等级≥ 80 成就≥ 120 拥有过南瓜兽 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "骷髅撒旦兽",
+      "to": "狱门兽",
+      "condition": "等级≥ 76 成就≥ 110 黑暗经验≥ 39000 8个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "天翔V龙兽",
+      "to": "杜纳斯兽",
+      "condition": "等级≥ 77 成就数≥ 100 巨龙经验≥ 15900 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "华丽兽",
+      "to": "海德拉兽",
+      "condition": "等级≥ 85 击杀数≥ 7000 植物经验≥ 65000 8个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "地狱使者兽",
+      "to": "异次元兽",
+      "condition": "等级≥ 90 完成挑战模式：异次元 黑暗经验≥ 65000 10个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "神圣天使兽",
+      "to": "主天使兽",
+      "condition": "等级≥ 75 击杀数≥ 4000 神圣经验≥ 59000 7个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "巨硬针毛兽",
+      "to": "螺旋兽：激昂形态",
+      "condition": "等级≥ 76 野兽经验≥ 95000 拥有过螺旋兽 9个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "祖利兽",
+      "to": "祖利兽（圣诞树）",
+      "condition": "等级≥ 85 携带圣诞拐杖糖 植物经验≥ 65000 8个进化器",
+      "sheet": "究极体进化路线"
+    },
+    {
+      "from": "闪光暴龙兽",
+      "to": "闪光暴龙兽：毁灭形态",
+      "condition": "等级≥ 85 巨龙经验≥ 55000 黑暗经验≥ 37500 2个加速器",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "奥米加兽",
+      "to": "帝皇龙兽：圣骑士形态",
+      "condition": "& 帝皇龙兽：战士形态 合体进化：1个数码合体芯片 等级≥ 95 神圣经验≥ 150000",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "奥米加兽兹瓦特",
+      "to": "奥米加兽兹瓦特战损",
+      "condition": "等级≥ 90 击杀数≥ 10000 6个加速器",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "帝皇龙兽：战士形态",
+      "to": "帝皇龙兽：龙形态",
+      "condition": "等级≥ 80 携带模式选择器",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "天女兽",
+      "to": "座天使兽：堕落形态",
+      "condition": "等级≥ 90 黑暗经验≥ 66666 拥有过座天使兽 7个加速器",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "座天使兽：堕落形态",
+      "to": "座天使兽",
+      "condition": "等级≥ 85 携带模式选择器",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "梅尔瓦兽",
+      "to": "恶鬼梅尔瓦兽",
+      "condition": "& 奥加兽 合体进化：1个数码组合芯片 等级≥ 95 友情≥ 5♥ 黑暗经验≥ 120000",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "柯罗诺兽：神圣形态",
+      "to": "柯罗诺兽：毁灭形态",
+      "condition": "等级≥ 95 携带模式选择器 黑暗经验≥ 95000 2个加速器",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "武天兽",
+      "to": "柯罗诺兽：毁灭形态",
+      "condition": "等级≥ 90 完成挑战模式：时间大师 黑暗经验≥ 150000 10个加速器",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "柯罗诺兽：毁灭形态",
+      "to": "柯罗诺兽：神圣形态",
+      "condition": "等级≥ 95 携带模式选择器 鸟类经验≥ 95000 2个加速器",
+      "sheet": "超究极进化路线"
+    },
+    {
+      "from": "V仔兽",
+      "to": "烈焰龙兽",
+      "condition": "等级≥ 15 携带磨损的勇气数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "烈焰龙兽",
+      "to": "天翔V龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5600 胜率≥ 99%",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "麻鹰兽",
+      "to": "异特龙兽",
+      "condition": "等级≥ 15 携带磨损的勇气数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "异特龙兽",
+      "to": "天翔V龙兽",
+      "condition": "等级≥ 45 巨龙经验≥ 5600 胜率≥ 99%",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "V仔兽",
+      "to": "闪电龙兽",
+      "condition": "等级≥ 15 携带磨损的友谊数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "闪电龙兽",
+      "to": "兽人加鲁鲁（黑）",
+      "condition": "等级≥ 45 野兽经验≥ 5200",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "麻鹰兽",
+      "to": "荷鲁斯兽",
+      "condition": "等级≥ 15 携带磨损的爱心数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "荷鲁斯兽",
+      "to": "迦楼罗兽",
+      "condition": "等级≥ 45 鸟类经验≥ 2980",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "麻鹰兽",
+      "to": "手里剑兽",
+      "condition": "等级≥ 15 携带磨损的纯真数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "手里剑兽",
+      "to": "超比多兽（红）",
+      "condition": "等级≥ 45 昆虫经验≥ 5100",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "犰狳兽",
+      "to": "挖掘兽",
+      "condition": "等级≥ 15 携带磨损的知识数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "挖掘兽",
+      "to": "花仙兽",
+      "condition": "等级≥ 45 植物经验≥ 3990 友情≥ 4.5♥",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "犰狳兽",
+      "to": "潜艇兽",
+      "condition": "等级≥ 15 携带磨损的诚实数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "潜艇兽",
+      "to": "恶海龙兽",
+      "condition": "等级≥ 45 水生经验≥ 1900 黑暗经验≥ 3890",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "天马兽",
+      "condition": "等级≥ 15 携带磨损的希望数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "天马兽",
+      "to": "骏鹰兽",
+      "condition": "等级≥ 45 鸟类经验≥ 2500 野兽经验≥ 2500",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "犰狳兽",
+      "to": "绵羊兽",
+      "condition": "等级≥ 15 携带磨损的希望数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "绵羊兽",
+      "to": "安底罗兽（神将）",
+      "condition": "等级≥ 45 野兽经验≥ 6180 友情≥ 2♥ & 友情≤ 4♥",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "小狗兽",
+      "to": "纳芙蒂兽",
+      "condition": "等级≥ 15 携带磨损的光明数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "纳芙蒂兽",
+      "to": "天女兽",
+      "condition": "等级≥ 45 神圣经验≥ 5200 友情≥ 2.5♥",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "麻鹰兽",
+      "to": "大嘴鸟兽",
+      "condition": "等级≥ 15 携带磨损的温柔数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "大嘴鸟兽",
+      "to": "祭师兽",
+      "condition": "等级≥ 55 神圣经验≥ 4900",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "虫虫兽",
+      "to": "爱精灵兽",
+      "condition": "等级≥ 15 携带磨损的善良数码精神",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "爱精灵兽",
+      "to": "花仙兽",
+      "condition": "等级≥ 45 植物经验≥ 5120 友情≥ 4.5♥",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "虫虫兽",
+      "to": "爱精灵兽（绿）",
+      "condition": "等级≥ 25 携带磨损的善良数码精神 拥有过爱精灵兽",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "爱精灵兽（绿）",
+      "to": "究极古加兽",
+      "condition": "等级≥ 70 昆虫经验≥ 35000 胜率≥ 85% 8个进化器",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "大耳兽",
+      "to": "疾速兽（黄金）",
+      "condition": "等级≥ 75 携带磨损的命运数码精神 7个进化器",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "V仔兽",
+      "to": "黄金V龙兽",
+      "condition": "等级≥ 75 携带磨损的命运数码精神 7个进化器",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "黄金V龙兽",
+      "to": "大师V龙兽",
+      "condition": "& 红色V龙兽 合体进化：1个数码合体芯片 等级≥ 90 巨龙经验≥ 73000",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "V仔兽",
+      "to": "玛格纳兽",
+      "condition": "等级≥ 75 携带磨损的奇迹数码精神 7个进化器",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "犰狳兽",
+      "to": "大象兽",
+      "condition": "等级≥ 75 携带磨损的奇迹数码精神 8个进化器",
+      "sheet": "装甲体进化路线"
+    },
+    {
+      "from": "音速狮子兽",
+      "to": "长蘑菇的音速狮子兽",
+      "condition": "& 8只钻头鼹鼠兽 合体进化：1个数码组合芯片 携带深渊松露 植物经验≥ 80000",
+      "sheet": "无等级进化路线"
+    },
+    {
+      "from": "疯狂狮子兽",
+      "to": "疯狂狮子兽：大蛇形态",
+      "condition": "& 大蛇兽 合体进化：1个数码组合芯片 等级≥ 82 拥有过疯狂狮子兽：武装形态",
+      "sheet": "无等级进化路线"
+    },
+    {
+      "from": "疯狂狮子兽",
+      "to": "疯狂狮子兽：最终形态",
+      "condition": "& 3只哈努兽 合体进化：1个数码组合芯片 等级≥ 85 拥有过疯狂狮子兽：大蛇形态",
+      "sheet": "无等级进化路线"
+    },
+    {
+      "from": "巴达兽",
+      "to": "巴达麻雀兽",
+      "condition": "& 麻雀兽 合体进化：1个数码组合芯片 等级≥ 20",
+      "sheet": "无等级进化路线"
+    },
+    {
+      "from": "高吼兽（王）",
+      "to": "金属高吼兽",
+      "condition": "& 金属巨龙兽 合体进化：1个数码组合芯片 等级≥ 70 巨龙经验≥ 35000 机械经验≥ 20000",
+      "sheet": "无等级进化路线"
+    },
+    {
+      "from": "不行兽",
+      "to": "巨型破坏不行兽",
+      "condition": "& 巨型破坏龙兽（紫） 合体进化：1个数码组合芯片 等级≥ 90 机械经验≥ 190000",
+      "sheet": "无等级进化路线"
+    },
+    {
+      "from": "奥加兽",
+      "to": "恶鬼梅尔瓦兽",
+      "condition": "& 梅尔瓦兽 合体进化：1个数码组合芯片 等级≥ 95 友情≥ 5♥ 黑暗经验≥ 120000",
+      "sheet": "无等级进化路线"
+    },
+    {
+      "from": "麻鹰兽",
+      "to": "巨龙兽",
+      "condition": "& 基尔兽 合体进化：1个数码合体芯片 等级≥ 12",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "暴龙兽",
+      "to": "暴龙兽（合体战争）",
+      "condition": "& 大师巨龙兽 合体进化：1个数码合体芯片 等级≥ 23",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "雪人亚古兽",
+      "to": "V仔兽EX",
+      "condition": "& 多路兽 合体进化：1个数码合体芯片 等级≥ 20",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "巫师兽",
+      "to": "幻影兽",
+      "condition": "& 黄蜂兽 合体进化：1个数码合体芯片 等级≥ 46",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "裂破兽",
+      "to": "大古拉兽",
+      "condition": "& 德尔塔兽 合体进化：1个数码合体芯片 等级≥ 45",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "大地暴龙兽",
+      "to": "朱红兽",
+      "condition": "& 战甲兽 合体进化：1个数码合体芯片 等级≥ 42",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "巨龙兽",
+      "to": "天翔V龙兽",
+      "condition": "& 飞龙兽 合体进化：1个数码合体芯片 等级≥ 50",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "巴多拉兽",
+      "to": "天翔V龙兽",
+      "condition": "& 刃王哈克兽 合体进化：1个数码合体芯片 等级≥ 45",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "蛇鸡兽",
+      "to": "百万龙兽",
+      "condition": "& 锹形虫兽 合体进化：1个数码合体芯片 等级≥ 45",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "核龙兽（蓝）",
+      "to": "地龙兽",
+      "condition": "& 海狮兽 合体进化：1个数码合体芯片 等级≥ 43",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "守卫机器人兽",
+      "to": "拉比兽",
+      "condition": "& 加奥加兽 合体进化：1个数码合体芯片 等级≥ 48",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "海狮兽",
+      "to": "奇虾兽",
+      "condition": "& 墨鱼兽 合体进化：1个数码合体芯片 等级≥ 38 水生经验≥ 6500",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "风灾兽",
+      "to": "猿猴兽",
+      "condition": "& 冰河兽 合体进化：1个数码合体芯片 等级≥ 40",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "恶魔兽",
+      "to": "光明兽：堕落形态",
+      "condition": "& 天使兽 合体进化：1个数码合体芯片 等级≥ 65",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "迪路兽",
+      "to": "人面战鹰兽",
+      "condition": "& 天鹰兽 合体进化：1个数码合体芯片 等级≥ 50",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "蜻蜓兽",
+      "to": "腕龙兽",
+      "condition": "& 沙地蜻蜓兽 合体进化：1个数码合体芯片 等级≥ 45",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "猿猴兽",
+      "to": "暗龙兽",
+      "condition": "& 百万龙兽 合体进化：1个数码合体芯片 等级≥ 80 黑暗经验≥ 29500",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "大古拉兽",
+      "to": "圣加鲁哥兽",
+      "condition": "& 数码蛋兽 合体进化：1个数码合体芯片 等级≥ 80 机械经验≥ 45000",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "三角龙兽",
+      "to": "剑狮兽",
+      "condition": "& 豆豆兽 合体进化：1个数码合体芯片 等级≥ 80 野兽经验≥ 45000",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "天女兽",
+      "to": "瓦尔基里兽",
+      "condition": "& 华丽兽 合体进化：1个数码合体芯片 等级≥ 77 胜率≥ 99%",
+      "sheet": "合体进化路线"
+    },
+    {
+      "from": "超级明星兽",
+      "to": "海天使兽",
+      "condition": "& 熊仔兽 合体进化：1个数码合体芯片 等级≥ 82 水生经验≥ 39000",
+      "sheet": "合体进化路线"
+    }
+  ]
+}
