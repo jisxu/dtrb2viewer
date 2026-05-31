@@ -1,0 +1,35 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Build Windows version
+        run: GOOS=windows GOARCH=amd64 go build -o build/dtrb2-viewer.exe .
+
+      - name: Build Linux version
+        run: GOOS=linux GOARCH=amd64 go build -o build/dtrb2-viewer-linux .
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            build/dtrb2-viewer.exe
+            build/dtrb2-viewer-linux
+          generate_release_notes: true

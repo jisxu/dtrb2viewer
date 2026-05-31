@@ -2,6 +2,10 @@
 
 基于Go语言的独立可执行文件，所有资源已内嵌。
 
+## 下载
+
+直接从 [Releases](https://github.com/jisxu/dtrb2viewer/releases) 页面下载预编译版本。
+
 ## 快速开始
 
 ### Windows用户
@@ -63,3 +67,11 @@ GOOS=linux GOARCH=amd64 go build -o build/dtrb2-viewer-linux .
 - 显示数码兽图片
 - 点击查看详情和进化关系
 - 收藏系统（本地存储）
+
+## 发布新版本
+
+```bash
+# 创建tag并推送，会自动触发GitHub Actions构建并发布Release
+git tag v1.0.0
+git push origin v1.0.0
+```
