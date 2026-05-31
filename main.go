@@ -14,7 +14,7 @@ import (
 	"time"
 )
 
-//go:embed static/*
+//go:embed assets/*
 var staticFiles embed.FS
 
 func openBrowser(url string) {
@@ -50,7 +50,7 @@ func main() {
 	}
 
 	// 获取嵌入的文件系统
-	staticFS, err := fs.Sub(staticFiles, "static")
+	staticFS, err := fs.Sub(staticFiles, "assets")
 	if err != nil {
 		log.Fatal(err)
 	}
