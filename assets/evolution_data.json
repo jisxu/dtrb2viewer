@@ -10,7 +10,7 @@
     {
       "name": "黑球兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "巨龙",
       "element": "",
       "attribute": ""
     },
@@ -59,7 +59,7 @@
     {
       "name": "雪球兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "野兽",
       "element": "",
       "attribute": ""
     },
@@ -94,7 +94,7 @@
     {
       "name": "普尼兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "野兽",
       "element": "",
       "attribute": ""
     },
@@ -122,7 +122,7 @@
     {
       "name": "小龙兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "巨龙",
       "element": "",
       "attribute": ""
     },
@@ -136,7 +136,7 @@
     {
       "name": "芝高兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "巨龙",
       "element": "",
       "attribute": ""
     },
@@ -150,7 +150,7 @@
     {
       "name": "绿叶兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "昆虫",
       "element": "",
       "attribute": ""
     },
@@ -171,7 +171,7 @@
     {
       "name": "普路路兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "鸟类",
       "element": "",
       "attribute": ""
     },
@@ -192,7 +192,7 @@
     {
       "name": "粒粒兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "野兽",
       "element": "",
       "attribute": ""
     },
@@ -206,7 +206,7 @@
     {
       "name": "泡泡兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "昆虫",
       "element": "",
       "attribute": ""
     },
@@ -234,7 +234,7 @@
     {
       "name": "漂游兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "水生",
       "element": "",
       "attribute": ""
     },
@@ -248,7 +248,7 @@
     {
       "name": "电鼠兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "机械",
       "element": "",
       "attribute": ""
     },
@@ -269,14 +269,14 @@
     {
       "name": "狡诈兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "黑暗",
       "element": "",
       "attribute": ""
     },
     {
       "name": "水母兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "黑暗",
       "element": "",
       "attribute": ""
     },
@@ -304,7 +304,7 @@
     {
       "name": "嘿嘿兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "黑暗",
       "element": "",
       "attribute": ""
     },
@@ -318,21 +318,21 @@
     {
       "name": "烟云兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "黑暗",
       "element": "",
       "attribute": ""
     },
     {
       "name": "果冻兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "野兽",
       "element": "",
       "attribute": ""
     },
     {
       "name": "可可兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "野兽",
       "element": "",
       "attribute": ""
     },
@@ -346,7 +346,7 @@
     {
       "name": "多多兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "野兽",
       "element": "",
       "attribute": ""
     },
@@ -360,7 +360,7 @@
     {
       "name": "沙砾兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "巨龙",
       "element": "",
       "attribute": ""
     },
@@ -374,7 +374,7 @@
     {
       "name": "狐狐兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "野兽",
       "element": "",
       "attribute": ""
     },
@@ -388,7 +388,7 @@
     {
       "name": "纽奇兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "植物",
       "element": "",
       "attribute": ""
     },
@@ -402,28 +402,28 @@
     {
       "name": "比兹兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "水生",
       "element": "",
       "attribute": ""
     },
     {
       "name": "普瓦兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "鸟类",
       "element": "",
       "attribute": ""
     },
     {
       "name": "浮球兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "植物",
       "element": "",
       "attribute": ""
     },
     {
       "name": "小天使兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "神圣",
       "element": "",
       "attribute": ""
     },
@@ -451,7 +451,7 @@
     {
       "name": "小拨片兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "机械",
       "element": "",
       "attribute": ""
     },
@@ -472,7 +472,7 @@
     {
       "name": "溜溜兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "巨龙",
       "element": "",
       "attribute": ""
     },
@@ -486,7 +486,7 @@
     {
       "name": "炸弹兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "巨龙",
       "element": "",
       "attribute": ""
     },
@@ -507,7 +507,7 @@
     {
       "name": "普斯兽",
       "stage": "幼年期I",
-      "type": "",
+      "type": "野兽",
       "element": "",
       "attribute": ""
     },
@@ -520,7 +520,7 @@
     },
     {
       "name": "强化巨龙数码蛋",
-      "stage": "幼年期I",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -597,7 +597,7 @@
     },
     {
       "name": "强化野兽数码蛋",
-      "stage": "幼年期I",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -660,7 +660,7 @@
     },
     {
       "name": "强化神圣数码蛋",
-      "stage": "幼年期I",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -723,7 +723,7 @@
     },
     {
       "name": "强化黑暗数码蛋",
-      "stage": "幼年期I",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -821,7 +821,7 @@
     },
     {
       "name": "强化鸟类数码蛋",
-      "stage": "幼年期I",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -877,7 +877,7 @@
     },
     {
       "name": "强化海兽数码蛋",
-      "stage": "幼年期I",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -919,7 +919,7 @@
     },
     {
       "name": "强化机械数码蛋",
-      "stage": "幼年期I",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -961,7 +961,7 @@
     },
     {
       "name": "强化昆虫数码蛋",
-      "stage": "幼年期I",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -1024,7 +1024,7 @@
     },
     {
       "name": "强化植物数码蛋",
-      "stage": "幼年期I",
+      "stage": "数码蛋",
       "type": "",
       "element": "",
       "attribute": ""
@@ -4540,12 +4540,6 @@
       "sheet": "幼年期II进化路线"
     },
     {
-      "from": "强化黑暗数码蛋",
-      "to": "巧克力兽",
-      "condition": "地下城孵化器概率获得",
-      "sheet": "幼年期II进化路线"
-    },
-    {
       "from": "巧克力兽",
       "to": "黑大耳兽",
       "condition": "等级≥ 4",
@@ -4600,21 +4594,9 @@
       "sheet": "幼年期II进化路线"
     },
     {
-      "from": "强化神圣数码蛋",
-      "to": "丘比兽",
-      "condition": "地下城孵化器概率获得",
-      "sheet": "幼年期II进化路线"
-    },
-    {
       "from": "丘比兽",
       "to": "巴达兽",
       "condition": "等级≥ 4",
-      "sheet": "幼年期II进化路线"
-    },
-    {
-      "from": "强化海兽数码蛋",
-      "to": "寒冷兽",
-      "condition": "地下城孵化器概率获得",
       "sheet": "幼年期II进化路线"
     },
     {
@@ -4645,12 +4627,6 @@
       "from": "叽叽兽",
       "to": "雏鸡兽",
       "condition": "等级≥ 4",
-      "sheet": "幼年期II进化路线"
-    },
-    {
-      "from": "强化机械数码蛋",
-      "to": "导弹兽",
-      "condition": "地下城孵化器概率获得",
       "sheet": "幼年期II进化路线"
     },
     {
@@ -8942,6 +8918,156 @@
       "to": "海天使兽",
       "condition": "& 熊仔兽 合体进化：1个数码合体芯片 等级≥ 82 水生经验≥ 39000",
       "sheet": "合体进化路线"
+    },
+    {
+      "from": "巨龙数码蛋",
+      "to": "黑球兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "巨龙数码蛋",
+      "to": "小龙兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "巨龙数码蛋",
+      "to": "芝高兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "巨龙数码蛋",
+      "to": "沙砾兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "海兽数码蛋",
+      "to": "漂游兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "海兽数码蛋",
+      "to": "比兹兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "野兽数码蛋",
+      "to": "普尼兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "野兽数码蛋",
+      "to": "粒粒兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "野兽数码蛋",
+      "to": "果冻兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "野兽数码蛋",
+      "to": "多多兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "野兽数码蛋",
+      "to": "狐狐兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "昆虫数码蛋",
+      "to": "绿叶兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "昆虫数码蛋",
+      "to": "泡泡兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "鸟类数码蛋",
+      "to": "普路路兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "鸟类数码蛋",
+      "to": "普瓦兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "机械数码蛋",
+      "to": "电鼠兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "黑暗数码蛋",
+      "to": "水母兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "神圣数码蛋",
+      "to": "小天使兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "植物数码蛋",
+      "to": "纽奇兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "植物数码蛋",
+      "to": "浮球兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "海兽数码蛋",
+      "to": "雪球兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "机械数码蛋",
+      "to": "狡诈兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "机械数码蛋",
+      "to": "烟云兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "黑暗数码蛋",
+      "to": "可可兽",
+      "condition": "属性数码蛋孵化",
+      "sheet": "数码蛋进化路线"
+    },
+    {
+      "from": "强化黑暗数码蛋",
+      "to": "巧克力兽",
+      "condition": "地下城孵化器概率获得",
+      "sheet": "数码蛋进化路线"
     }
   ]
 }

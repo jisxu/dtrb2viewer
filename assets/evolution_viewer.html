@@ -563,41 +563,126 @@ function initNetwork() {
     });
 }
 
+function findEvolutionChain(name) {
+    const ancestors = [];
+    const descendants = [];
+    const visitedAncestors = new Set();
+    const visitedDescendants = new Set();
+
+    function findAncestors(nodeName, depth) {
+        allEdges.forEach(e => {
+            if (e.to === nodeName && !visitedAncestors.has(e.from)) {
+                visitedAncestors.add(e.from);
+                ancestors.push({ name: e.from, depth: depth + 1 });
+                findAncestors(e.from, depth + 1);
+            }
+        });
+    }
+
+    function findDescendants(nodeName, depth) {
+        allEdges.forEach(e => {
+            if (e.from === nodeName && !visitedDescendants.has(e.to)) {
+                visitedDescendants.add(e.to);
+                descendants.push({ name: e.to, depth: depth + 1 });
+                findDescendants(e.to, depth + 1);
+            }
+        });
+    }
+
+    findAncestors(name, 0);
+    findDescendants(name, 0);
+
+    return { ancestors, descendants };
+}
+
+function layoutChain(chain, centerName) {
+    const { ancestors, descendants } = chain;
+    const spacingX = 250;
+    const spacingY = 100;
+
+    function groupByDepth(items) {
+        const groups = {};
+        items.forEach(item => {
+            if (!groups[item.depth]) groups[item.depth] = [];
+            groups[item.depth].push(item.name);
+        });
+        return groups;
+    }
+
+    const ancestorGroups = groupByDepth(ancestors);
+    const descendantGroups = groupByDepth(descendants);
+
+    const updates = [];
+    const centerX = 0;
+    const centerY = 0;
+
+    updates.push({
+        id: centerName,
+        x: centerX,
+        y: centerY,
+        fixed: { x: true, y: true }
+    });
+
+    Object.keys(ancestorGroups).forEach(depth => {
+        const nodes = ancestorGroups[depth];
+        const x = centerX - parseInt(depth) * spacingX;
+        const totalHeight = (nodes.length - 1) * spacingY;
+        nodes.forEach((nodeName, i) => {
+            updates.push({
+                id: nodeName,
+                x: x,
+                y: centerY - totalHeight / 2 + i * spacingY,
+                fixed: { x: true, y: true }
+            });
+        });
+    });
+
+    Object.keys(descendantGroups).forEach(depth => {
+        const nodes = descendantGroups[depth];
+        const x = centerX + parseInt(depth) * spacingX;
+        const totalHeight = (nodes.length - 1) * spacingY;
+        nodes.forEach((nodeName, i) => {
+            updates.push({
+                id: nodeName,
+                x: x,
+                y: centerY - totalHeight / 2 + i * spacingY,
+                fixed: { x: true, y: true }
+            });
+        });
+    });
+
+    return updates;
+}
+
 function selectDigimon(name) {
     selectedNode = name;
     renderList();
 
-    const relatedNodes = new Set([name]);
-    const relatedEdges = new Set();
+    // 找出进化链
+    const chain = findEvolutionChain(name);
+    const chainNodes = new Set([name, ...chain.ancestors.map(a => a.name), ...chain.descendants.map(d => d.name)]);
+    const chainEdges = new Set();
 
     allEdges.forEach((e, i) => {
-        if (e.from === name || e.to === name) {
-            relatedNodes.add(e.from);
-            relatedNodes.add(e.to);
-            relatedEdges.add(i);
+        if (chainNodes.has(e.from) && chainNodes.has(e.to)) {
+            chainEdges.add(i);
         }
     });
 
-    const secondOrder = new Set(relatedNodes);
-    allEdges.forEach((e, i) => {
-        if (secondOrder.has(e.from) || secondOrder.has(e.to)) {
-            relatedNodes.add(e.from);
-            relatedNodes.add(e.to);
-            relatedEdges.add(i);
-        }
-    });
+    // 重排列进化链
+    const layoutUpdates = layoutChain(chain, name);
 
     const updates = allNodes.map(n => {
         const sc = getStageColor(n.stage);
-        const isRelated = relatedNodes.has(n.name);
+        const inChain = chainNodes.has(n.name);
         const isCenter = n.name === name;
         const imgPath = getImagePath(n.name);
 
-        if (!isRelated) {
+        if (!inChain) {
             return {
                 id: n.name,
-                opacity: 0.3,
-                font: { color: '#555', size: 9 },
+                opacity: 0,
+                hidden: true,
                 fixed: { x: true, y: true }
             };
         }
@@ -606,6 +691,7 @@ function selectDigimon(name) {
             return {
                 id: n.name,
                 opacity: 1,
+                hidden: false,
                 size: isCenter ? getNodeSize(n.stage) * 1.6 : getNodeSize(n.stage),
                 font: { color: '#fff', size: isCenter ? 14 : 11, strokeWidth: 3, strokeColor: '#0a0e17' },
                 color: { border: isCenter ? '#60a5fa' : sc.border },
@@ -616,19 +702,27 @@ function selectDigimon(name) {
         return {
             id: n.name,
             opacity: 1,
+            hidden: false,
             size: isCenter ? getNodeSize(n.stage) * 1.6 : getNodeSize(n.stage),
             font: { color: '#fff', size: isCenter ? 14 : 11, strokeWidth: 3, strokeColor: '#0a0e17' },
             color: { background: sc.bg, border: isCenter ? '#60a5fa' : sc.border, highlight: sc.highlight },
             fixed: { x: false, y: false }
         };
     });
-    visNodes.update(updates);
+    visNodes.update([...updates, ...layoutUpdates]);
 
-    const edgeUpdates = allEdges.map((e, i) => ({
-        id: i,
-        color: relatedEdges.has(i) ? { color: '#60a5fa', highlight: '#93c5fd', opacity: 0.8 } : { color: '#1a1a2e', opacity: 0.03 },
-        width: relatedEdges.has(i) ? 2.5 : 0.3
-    }));
+    const edgeUpdates = allEdges.map((e, i) => {
+        if (!chainEdges.has(i)) {
+            return { id: i, hidden: true, color: { opacity: 0 }, width: 0 };
+        }
+        if (e.to === name) {
+            return { id: i, hidden: false, color: { color: '#10b981', highlight: '#34d399', opacity: 0.9 }, width: 3 };
+        }
+        if (e.from === name) {
+            return { id: i, hidden: false, color: { color: '#f59e0b', highlight: '#fbbf24', opacity: 0.9 }, width: 3 };
+        }
+        return { id: i, hidden: false, color: { color: '#3b82f6', highlight: '#60a5fa', opacity: 0.7 }, width: 2 };
+    });
     visEdges.update(edgeUpdates);
 
     network.focus(name, { scale: 1.2, animation: { duration: 500, easingFunction: 'easeInOutQuad' } });
@@ -716,6 +810,7 @@ function resetNodeStyles() {
             return {
                 id: n.name,
                 opacity: 1,
+                hidden: false,
                 size: getNodeSize(n.stage),
                 font: { color: '#e0e0e0', size: 11, strokeWidth: 3, strokeColor: '#0a0e17' },
                 color: { border: sc.border },
@@ -726,6 +821,7 @@ function resetNodeStyles() {
         return {
             id: n.name,
             opacity: 1,
+            hidden: false,
             size: getNodeSize(n.stage),
             font: { color: '#e0e0e0', size: 11, strokeWidth: 3, strokeColor: '#0a0e17' },
             color: { background: sc.bg, border: sc.border, highlight: sc.highlight },
@@ -736,10 +832,14 @@ function resetNodeStyles() {
 
     const edgeUpdates = allEdges.map((e, i) => ({
         id: i,
+        hidden: false,
         color: { color: '#4b5563', highlight: '#3b82f6', opacity: 0.6 },
         width: 1
     }));
     visEdges.update(edgeUpdates);
+
+    // 恢复物理引擎
+    network.setOptions({ physics: { enabled: true } });
 }
 
 function resetView() {
